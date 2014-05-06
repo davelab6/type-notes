@@ -1,0 +1,593 @@
+automatic type design
+==========================
+
+International typography symposium, Nancy, campus Artem, 6-7 may 2014
+
+rue du sergent Blandan, Nancy
+
+http://automatic-type-design.anrt-nancy.fr
+
+Introduction
+===============
+
+A printed document can be digitized 
+in two different ways: either as a static image, 
+in which case it tends to remain faithful 
+in appearance to the original page it is reproduced 
+from; or, in instances where an Optical Character 
+Recognition (OCR) process is applied, it can be 
+converted into a text format that is both editable 
+and searchable, but whose typographic style may 
+significantly differ from the original. One also 
+observes that the oldest the document, the more 
+difficult its automatic conversion through OCR 
+tends to become. In comparison, an intermediate 
+mode that would faithfully reproduce the 
+typography of a document, while embedding 
+dynamic text, could provide researchers with 
+unprecedented possibilities with regards to the 
+transcription of ancient texts. With this goal 
+in mind, the Atelier National de Recherche 
+Typographique is currently working 
+on a multidisciplinary research programme 
+at the crossroad between computer sciences, 
+humanities and design, in partnership with the 
+Loria (a computer science research department 
+based in Nancy), and the Virtual Humanist Libraries 
+programme of the CESR in Tours.
+
+Can we conceive an OCR workflow that generates 
+typefaces ‘on the fly’, from scanned pages of text? 
+What degree of accuracy could then be achieved? 
+And to which extent could we automate the type 
+design process ?
+
+
+The symposium Automatic type design, 
+which will be held in Nancy on 6–7 May 2014, 
+will attempt to answer some of these questions 
+by bringing together engineers, developers, 
+historians and designers. The themes 
+under discussion will include :
+
+* Optical character recognition applied to ancient 
+documents: data extraction, segmentation, 
+inventory and comparative analysis ;
+
+* The encoding and the standardization of missing 
+characters ;
+
+* The subjective interpretation of printed type by a 
+designer: the revival ;
+
+* The objective interpretation of letterforms 
+through image analysis techniques ;
+
+* Parametric fonts, technologies for detecting the 
+outline of a character, and for determining its 
+underlying structure; 
+
+* The creation of innovative software for digital 
+typography.
+
+Lectures will be in French and in English. 
+Pioneers of digital typography (Jacques André, 
+Richard Southall) will interact with experts in 
+encoding and image analysis techniques (Johannes 
+Bergerhausen, Bart Lamiroy, Jean-Yves Ramel) as 
+well as with some of the most innovative software 
+creators currently in activity (Erik Van Blokland, 
+Frederik Berlaen, Simon Eggli, Pierre Marchand, 
+Yannick Mathey & Louis -Rémi Babé...). 
+New technologies, as well as promising projects 
+in the field of programmatic type design, will 
+be presented, including Superpolator 3, Prototypo, 
+and Metapolator.
+
+Tuesday: Recognition of typographic shapes
+============================================
+
+9h30 Introduction, Thomas Huot-Marchand
+—---------------------------------------------
+
+9h45 Jacques André (FR), OCR and Renaissance “ typèmes ”
+————————————————————————————————————————————————————————————
+
+Conference in french
+
+Summary: Today, softwares allow us to go very far in the recognition of old printed characters 
+and the creation of database to store, compare, etc. However, there’s a lack of 
+standardization in the naming of these entities. The Unicode “character” concept 
+is too limited to deal with the reality, and the typographic “glyph” too general. We 
+propose then an intermediate concept, the “typème” . From many examples of 
+printed matter from Renaissance – including books of arithmetic, of medicine , 
+almanacs, up to specimens or fonts – this concept is specified while showing the 
+problems that are inherent in the material (influence of handwritten signs, 
+allographs , polysemy, trials and printing errors, misuse of type, etc.). We then 
+present ICAP (Projet d’Inventaire des Caractères Anciens), ongoing project at the 
+Centre d’Études Supérieures de la Renaissance in Tours, and its relationship with 
+MUFI (Medieval Unicode Font Initiative).
+
+Biography: After a PhD in “numerical calculation” in Nancy, Jacques André joined a team of 
+researchers in linguistics at the CNRS and spent ten years in a research and 
+development center of a large American computer manufacturer. He joined INRIA where 
+he was responsible for software engineering and editing, which lead him to structured 
+documents. After a stay at EPFL in Lausanne, he specialized in digital typography (with, 
+in particular: the Didot project, RIDT symposium, EP symposium, magazines like Cahiers 
+Gutenberg or Documents numériques, etc.) and publishing old documents. 
+Retired for ten years, Jacques André gave a more historical look at his studies and 
+recently published (with Christian Laucou) a History of typographic writing - the 
+nineteenth century (Ed. Perrousseaux)
+
+
+
+10h30 Paradiit. Exploitation of the redundancy of forms for content analysis and transcription of early printed books, Jean-Yves Ramel (FR)
+
+Conference in french
+
+Summary: We present in this lecture some of the work done under the Paradiit project 
+conducted, financed by two successive Google awards, in collaboration with the 
+Centre d’Etudes Supérieures de la Renaissance (CESR) in Tours. Our project aims to 
+make available to researchers in the field of “digital humanities” a set of 
+interactive tools for better analysis, indexing and transcription of old printed 
+books. In this perspective, we believe that it is necessary to produce interactive 
+tools exploiting metadata indexing, perceptual (image oriented) as well as 
+semantic (historical content and bibliographic record). 
+In this context, a new engine has been developed for the extraction of content 
+elements and the structural analysis of digitized pages. This software allows 
+automatic identification and extraction of various content elements that may 
+appear in old books and of interest to historians (characters, initials, portraits, 
+handwritten notes in the margins...).
+
+Regarding aid to transcription , unlike most OCR softwares, the developed 
+algorithms (Retro software) proceed by analyzing the redundancy of forms of 
+extracted images. This technique does not recognize the characters separately and 
+independently of other similar groups, but forms clusters without seeking to 
+identify anything. Once built, it becomes possible to analyze and exploit the 
+clusters to obtain a transcript of most of the text in just a few clicks. This 
+information on the redundancy of forms inside the books may also be used to 
+make typographic analyzes.
+
+Biography: Jean-Yves Ramel is Professor of Computer Science at Polytech Tours . He is head of the “Reconnaissance des Formes et Analyse d’Images” team in the Informatic laboratory in Tours, and his current research activities focus on the processing and indexing of 
+digital images (images of documents or medical images). Jean-Yves Ramel had 
+previously obtained his PhD in Computer Science from INSA Lyon where he has been a 
+lecturer for 4 years. Within the University of Tours since 2002 , he took part in many 
+national and international projects. Jean -Yves Ramel has obtained in 2010 and 2011 
+two Google Digital Humanities Awards to support Paradiit project in collaboration with 
+the CESR Tours, that intends to produce tools exploiting the redundancy of forms 
+present in texts to produce new tools and knowledge helping the treatment of early 
+printed books. 
+
+
+
+
+11h30 Digital Cuneiform, Johannes Bergerhausen (DE), 
+——------------------------------------------------------------
+
+Conference in french
+
+Summary: In the Designlabor Gutenberg Institute in Mainz, a group of three typographers 
+developed a digital cuneiform character, including 1,063 glyphs. Johannes 
+Bergerhausen will present the development process, the discussions with 
+specialists, and the specific issues between pictographic, ideographic and 
+phonographic characters in the oldest writing system in the world.
+
+Biography: Prof. Johannes Bergerhausen, born 1965 in Bonn, Germany, studied Communication 
+Design at the University of Applied Sciences in Düsseldorf. From 1993 to 2000, he lived 
+and worked in Paris. First he collaborated with the Founders of Grapus, Gérard 
+Paris-Clavel and Pierre Bernard, then he founded his own office. In 1998 he was 
+awarded a grant from the French Centre National des Arts Plastiques for a typographic 
+research project on the ASCII-Code. He returned to Germany in 2000 and, since 2002, is 
+Professor of Typography at the University of Applied Sciences in Mainz. Lectures in 
+Amiens, Beirut, Berlin, Brussels, Dubai, Frankfurt, London, Paris, Prague, Rotterdam, San 
+Francisco, Weimar. Since 2004, he is working on the decodeunicode.org project, 
+supported by the German Federal Ministry of Education and Research, which went 
+online in 2005. Semester of research 2007 in Paris. www.decodeunicode.org
+
+
+14h Nancy / Fonzie, Pierre Marchand (BE)
+----------------------------------------------------
+
+Conference in french
+
+Summary: Rooted in both activist energy and commissioned work. Nancy/Fonzie is rather a field for experiments than a proper software component. It draws its strength mainly from its cultural context. Each iteration of the program being tied to an event or the expression of a fantasy: OSP / Dingbat Liberation Fest @ My.Monkey; Speculoos / fremok (comic fonts, pseudo random); Speculoos / architectures wallonie-bruxelles inventaire 2000-2010 (univers else); OSP / Royal College of Arts (sans guilt); Constant / Verbingen:Jonctions (reading machine); OSP / Ecole de Recheche Graphique (workshop); OSP / Seoul Typojanchi. First era: Nancy. At this point the program was an effort to automate vectorization of prepared images (grid) in order to ease making of fonts out of hand made lettering. Apart from speeding up the process, it made it possible to explore a wide range of parameters. Second era: Fonzie. Merged with Tesseract (OCR engine), the program allowed us to wander in the landscape of our definitive fantasy, to make books off books, retaining their artifactness and in the same time injecting a substantial amount of digital culture. Hence finding means to go through legacy without romanticism.
+
+Biography: Pierre Marchand. former artist. interest in print making. interest in computing. free software hacking. fontmatrix. Open Source Publishing.
+
+Live blog: I didn't work on Fonzie or font technologies for the last 3 years. 
+
+I read this book, 'Guide Pratique ..' and I was frustrated with text enginers. I wanted to compose type myself, like the way it was done in letterpress, but with a computer. So I wrote such a program, undertype. I worked on this typeset page about 6 months ago with it.
+
+I hacked on Scribus a lot, and I started a font manager FontMatrix. This was the basis of by membership in the open source world. I moved to Brussels and joined Open Source Publishing, and it became the center of my life. OSP is part of Constant. 
+
+Fonzie started as a program to address a need for fonts for comic books. Pierre Huyghebaert, from Speculoos in Brussels, has a connection with comic books, a large part of Belgian culture, and he has friends in comic books. They need to translate their comic books, French to Flemish or Flemish to French, and also English and German. They often need to ask the comic book artist to do this. 
+
+he was excited about a thread of typophile about 5 years ago about randomness in OpenType Layout features of fonts. So he asked me to make a program that would scan, segment, vectorise, fontise, and add random OTL code to a hand drawn comic book lettering. 
+
+This is the response from the comic book editor: IN-CROY-ABLE !!!
+
+But this was funny for me, it wasn't much - plugging things together, a bit of glue code. 
+
+Most of the work was explaining to Pierre Huyghebaert how I did it. This was thanks to the inherent nature and power of libre software, where you can build on the work of other people. 
+
+Next project :)
+
+Cimatics were making images by using a spread of dingbats. This was turned into a workshop, where people could draw shapes and confront font encodings to look at the dingbats, the things in Unicode that are a bit weird; they are not really meant to be there, they don't carry as much culture as other parts of Unicode, and you can do a lot more of whatever you want to do there. 
+
+We did the workshop again in Casco (Utrecht, NL), a 'Dingbats Liberation Fest', and the thing was weird. It was super fun, we passed a USB stick from one to another, we kept a list on the wall of what glyphs are done. It was messy. It helped motivate me to write a program. 
+
+I started thinking about how to do this on the journey back home, so it was more systematic, and so it could be shared with more people. So if you build tools for your receipt, you can really improve the experience. 
+
+A few nights later, we were asked by the Monkey Gallery in Nancy to give an exhibiton of our work as OSP. When we thought of what to bring there, they turned to me, and said I had that idea to automate the workshop, so could we go do the exhibition, set it up, and hten people can do the workshop by themselves. 
+
+So, you pick a Unicode description of the unicode dingbat, and you draw something related. Its not like 'Letter A' its often a poetic description. You cut black paper with your sissors, you scan it, and you put it on the wall. This is then run through the 'Hello I'm Nancy' program, which was the first name of the program. 
+
+We scan the image of the drawing, make a vector with potrace - that was an interesting part! - and then update a UFO directory, committing this to a SVN repository, and then regenerating the new font with the latest glyph. It was fun, it didn't really work, but the whole process was architected and we thought with a few more days we could have made it work really smooth. 
+
+So, potrace. Here is the potracelib manual PDF. Depending on the culture you come from, you have different ideas. These differences make life rich and exciting. The documentation for potrace, its interesting the way they think to get shapes out of bitmaps, but there is a section, page 3 Figure 5, they don't think with lines and curves, but lines and corners. When you work with the library, it is a stand along program, but in Fonzie, I use the library with the API, well its not so clear what I am saying to non-programmers, but when you use the potrace software as a library you have to learn the way of thinking of the potrace authors. 
+
+Well, this is a libre project, a collaborative and community centred project. We had to explain the relationship of them to the work and how this is expressed in the license of the font. This starts in 2009 with just OSP, then in 2010 with people from the Casco, then those from Nancy. Many people didn't like to participate because some things were ugly. When you join a public participatory project, you have to accept that everything is not perfect and that the contributions and especially their quality from others will not be as you would like. 
+
+So Fonzie, is a story from commercial jobs to OSP cultural events to commercial jobs to OSP cultural events. Each time I added things, the program is very ugly and I didn't remove anything. So the next project was a commerical one with Pierre Huyghebaert. He thinks about typography in Brussels as part of the city, here is a picture of him (standing on a table, ostensibly working.)
+
+Pierre Huyghebaert had a project to make a book like the Fluxus group's books, who used an IBM Selectric typewriter. He asked me if I could make Fonzie create a text type. I asked how much I would be paid for this. Well, almost nothing. So we did it!
+
+This was a book project supervised by Pierre Huyghebaert, my girlfriend at the time did the typography design, and I did the font. A nice family kind of work. We did it all with the classic Univers, and at the last minute, we substituted the "Univers Else" font that I made with Fonzie. 
+
+This shifted the layout, and I had promised that the layout would remain the same. Spacing is the biggest problem I have with Fonzie. Spacing was done in a very naieve way, using the bounding box of the glyph and adding 10% and it will be okay. 
+
+So we wanted better. I read A LOT of papers about spacing, automatic spacing. I couldn't do it for free. So I went to some idea, a trick: You can't directly use the metrics from the original font, its a license problem, but we tried to see the result, and we thought about some proportional things... but in the end we simply used InDesign's "Optical Spacing" feature to autospace the font. 
+
+Fonzie today can only be used by me. The interface is quite strange. Each time I have used it I have to read the source code myself. Each time you use it, you have to explain a lot of things - and that is education. 
+
+So the next project was one for education. As OSP we decided to do some workshops with Fonzie. We did a workshop at RCA in London, at Dept 21 - a collection of students who are unhappy with the mainstream teaching there.
+
+At RCA they have various versions of Gill Sans: original drawings, lead characters, and the Gill Sans MT font from Monotype. So we build 3 fonts from the 3 technologies using Fonzie. This was another way to ask questions about the licensing of fonts. 
+
+So this program that doens't really run, just about works, is a great way to question the culture of typefaces and fonts. It questions the relationship of the font user and producer, and how the roles work together to create typography. 
+
+We did funny workshops, to make students aware of what can be done. 
+
+Fonzie started with using drawings of letters in a regular grid. For Verbindingen Jonctions, Femke Snelting of OSP asked me to connect Fonzie to an OCR engine, to take letters from a scanned book. This became my contribution to Verbindingen Jonctions. With a collaboration with Hackerspace Brussels, who had a home built book scanner, I thought of making a 'pure facsimilie' of a book, reproducing the typefaces, the typography and layout all digitally. 
+
+It was fantastic when it worked for the first time :)
+
+I did the programming myself, but the thinking around it, I worked with An Mertens, an author at Constant, and she knows nothing of programming. I had to explain a lot to her, and she wrote it up but in Flemish which I can't read. 
+
+I used Tesseract, the key of the program isn't the segmentation of the page, its the training data. Without the training data, it knows nothing of your text. This data is text you give to it, to build up its database of things it knows. Depending on the typefaces used, the text you give to the trainer, it will recognise text in that typeface - and it will not recognise text in a different typeface. You can trick it, you can say any shape is this letter. So it can recongize things that are not text. 
+
+We tried with Brasilian grafitti, they used huge letters on buildings. It worked pretty well!
+
+I worked with the Verbosity group on this. 
+
+So here is a slide showing Univers Else. This PDF is made with Fonzie. 
+
+Typojanchi, is a Korean festival where OSP was invited to give a workshop. The OSP members who went there used Fonzie. Tesseract at version 659, had a way deep in the program that was surfaced to users to see where it detected a character. This feature went away in later versions. 
+
+Here is the way to use Fonzie. There is a set of #define options; about 50% of them are no longer needed and don't do anything. There are potrace options, the results you get are very sensitive to these parameter values. You can see the arrival of tesseract, and how to operate the book scanner through its cable. 
+
+Here is an OSP print party, really fun, mixing cooking and printing. 
+
+To conclude, this program: I don't see making this program an achievement in itself. Its a way to share code, to be inspired by reading and writing code. Working with creative friends, you get ideas to write programs. You form a loop and it is exciting! 
+
+That's it. 
+
+[Applause!]
+
+Q: What can we do, to use Fonzie? How can I use it by myself? As you'll see after my talk, I'm interested in using it. 
+
+Pierre: It depends how familiar with software development. I can explain in 20 minutes and if you are familiar. This morning I was thinking of using potrace, and instead of potrace, to find a skeleton. So things could be more flexible. Just a thought. 
+
+
+
+
+14h45 On digitization, Erik van Blokland (NL)
+————————————————————————————————————————————————————————————
+
+Conference in english
+
+Summary: This presentation is about a small experiment on digitization of letterforms. A 
+single scanned image was shared with type students, colleagues, professionals 
+and interested designers. The analysis of the data brings some interesting results.
+Erik van Blokland will also present Superpolator3.
+
+Biography: Erik van Blokland runs letterror.com, a small font foundry (FontFont, House Industries) and a typographic design studio. He develops niche tools for type design and font production and has been involved in the development of the UFO (for font sources) and WOFF (for font binaries) formats. He is a senior lecturer at the TypeMedia master at the 
+Royal Academy of Arts in Den Haag. www.letterror.com www.superpolator.com
+
+Live Blog:
+
+No new slides since ATypI for the first part. I'm a type designer and I write code and make tools. I am often side tracked in these little projects. 
+
+There is an idea that there is 'only 1 right way to do it'
+
+This is a lowercase Caslon 'n' - its small, rough on the paper - from an Enschede specimen. I asked my students and colleagues to digitize it, then people across the web. 
+
+I got a lot of data. There are 90 versions; blue at starting points, red and green dots for on and off curve. Here are the outlines. You can see a preference for an x height for 500 - the RoboFont default.
+
+The contours are all different. I scaled them to the same total height, and often the have the same number of points, but they are always different. 
+
+There is no agreement even on baseline. 
+
+There is a 'procrustes analysis' to take scale and position out of things (also rotation) and here is a movie of this, showing the points move from their original positions to a normalized one - looks like its maybe in 3D but its not about that. You can seethe baseline gets a bit fuzzier, so the unevenness is spread out over the points. 
+
+Here is the filled render of the normalized shpae. Some landmarks are easy to point to - the extreme of a curve. The corners of the shape. But the shoulder tangent point on the outside of the right stem? Its very spread out. 
+
+A real statictician could probably do more with this. Another thing, looking at the standard deviation and the mean, the average I get is close to the bitmap. Perhaps this is how autotracers work. 
+
+This shows that outline construction is a uniquely human activity; the curves are always expressed in different ways. Perhaps you can even tell who the person drawing was by looking at patterns in this. 
+
+It shows procrustes can be a useful method to compare glyph data. 
+
+And that 'closeness' is not spread evenly. 
+
+So that was my first little project. All normal people, no robots digitizing this. The bezier outline is always exact, and type programs can be abstract, but the way we built these things is very human. 
+
+So we can be happy about that. 
+
+I have 2 other thigns to show: Superpolator 3, and a little thing on optics. 
+
+Optics!
+
+(I presented this before too. Also, these are hobby projects, not paid by the school or any client)
+
+Light. We see light. We think about darkness as absense of light. There isn't dark photons. Light and type is an interesting subject. Optical correction, we make shapes that are so small they are at the edge of what we can see as humans. How does this work?
+
+This is pedantic remarks about the use of blue in type speciifmens: Mark van Rossum's "A new test of legibility" has such an image. Is this text in a fog, when the person is drunk? 12pt across a room? 
+
+Well yes, its more legible when you blur it. But does that correpsond to something else? 
+
+Yes, we have foveal vision, Tim Ahrens MATD has such an image showing blurring to the sides. 
+
+Ralf Hermann, has Wayfinding Sans Pro, and his support material shows a blurring tool made with Quartz Composer (?)
+
+Kepler took 10 years to find that circles are not circles [????] and if you SHOW what goes on, people can respond to that. 
+
+So, can we show what displays do at small sizes? Here's Noordzji in Letter Letter, showing an 'e' counter.
+
+Diffraction? You see a star, the light from a star is a point; it has no weight, but this breaks through a lens and diffuses. The size of the star is a measure of the quality of the optical system. He was mean to Darwin, or something. Looks like a friendly guy! :)
+
+The Point Spread Function, is the image that a visual system forms from a point of light. The eyes we evolved to have are not great - the Octopus has better eyes, they are bigger with a bigger optical nerve. They sit in the sea with no brains though. 
+
+Here's Gray's Anatomy of the Human Body's illustration of an eye ball. There are many parts in an eye, and the light breaks up. The light becomes little discs that hit the photo receptors. Here is the layer of the end of the optic nerves; its a layer of ham.
+
+...
+
+So this is some simulated images, from Austin Roorda, PhD at UC Berkeley, of maybe what your eye actually gets and you hallucinate into a crisp image. 
+
+Convolution: The PSF is not a gaussian circle blur; its a star trek logo. It varies by people; some see a comma shape. 
+
+At 8pt type, at 40cm, is 24.26' arcminutes, making a 0.157mm image on your retina, which is about 80 photoreceptors. Its not 80 pixels, you are moving, the density varies, but its not 10,000, its around 100. 
+
+The 1em unit is 0.034' arcminutes. 500em units is 13.340' arcminutes. 
+
+The Pupilsize, the airy disc, its 8.2mm, which is 0.658' arcminutes, or 27.12 units; and 1mm is 4.494' arcminutes, or 185.28 units (on a 1,000 UPM)
+
+So when you make a little kind on a serif, think about this. This shows you the hierarchy that is important and not important. WEIGHT. RHTYHM. WHITE. BLACK. If you have a serif, sure, yes or no, but its actual shape is imperceptible at 10pt type. It looks nice when you print 2 letters large on the cover, sure. But for reading, no. 
+
+This is the Snellen Eye Chart, the L P E D, and these are not just slab serif letters, there are 5 arcminutes. If you can read the E, you can see its not a D, then you can make a statement about the resolution of the eye. A minimal pair; at some point they become identical, but that point is different for each person. 
+
+So a 8pt Eames Medium (I made) has 24' arcminutes units of height from lower p to upper l. The width of the a's join is 4 'retina pixels' 
+
+Roorda made a similar image, a 20/20 letter E and a 5 arc minutes sampled image showing the 'retina pixels' 
+
+I want to show tools that show these things to type designers. If you see these things, you can react. 
+
+Here is a guassian blur; its not a blur but a lot of dots. 
+
+Photoshop has made us expect this flat guassian blurring. But it is not really what happens. There is no black ink going into white paper. Only white light. So I can only draw white. 
+
+I can do things like this, drawing white in the counter and around the letters. The white leaks into the black, this is more senstivie. Scattered rays have a direction. 
+
+This is all drawn with Drawbot. The light that reflects on a surface has a direction and length. Scatters nicely, and its even. Where there is an edge, there is more leaking. Where things are thinner, they appear to get even thinner, as the light scatters even more there. 
+
+Here is a fat 'a' a regular 'n' and a very light 'e' italic; its almost disappeared, so you can hardly see it. I'm so pleased we can SHOW this. Small white shapes are as much trouble as small black shapes. 
+
+A small counter in a letter, is like a fountain of light. The serifs add a hint of black to the terminal of the stem, stopping it from ending sooner than we expect. 
+
+Here are optical sizes of Clarendon from letterpress type. By seeing this we can learn to make better optical type. 
+
+Harry Carter (father of Matthew Carter) said in 1937 that 'The whole problem of adapting type design to optical susceptibilities is a fascinating and a very difficultu one. It is only possible to nibble at it eithour having proper experimental apparatus and ample time."
+
+We can model the phsyics process of light form the sun coming to earth, bouncing off a paper or going through many industrial processes to come out from a screen
+
+Next!
+
+Can we interpolatoe 5 masters? or discontinous interpolation? Is there another way than Adobe Multiple Master? 
+
+MMM was a great tool in a typography DTP tool from 1993 (?) but it was restrictive for the design spaces you could build. I took time to rethink this. 
+
+Apple had TrueType GX, which was eventually killed off, and Apple started using Unicode and OpenType in Mac OS X. This is the 'a' and this is how it becomes bold, or condensed. You could ADD these, to get a bold condensed. It looked terrible! But you could add another layer of deltas. 
+
+This broken the Adobe model of 2 masters for 2-4-8-16-32 axes. GX had 64 axes, and Superpolator has no limit on the number of axes. 
+
+This is Adobe Sans; You case the B rotates, the O does odd things. This is glyph specific, and you can insert the masters anywhere you want. 
+
+I start with a Neutral, and draw a bold: this is a space, 2 points on a line, I can interpolate or extrapolate. 
+
+So here is a Commercial Type family, Action. You can see the masters, and the 12 instances which are the font I want out of the system to install. 
+
+...
+
+There are other ways to make this more complex. You can select all the instances to see a letter in each of them. 
+
+You can measure! Thanks to Frederik Berlaen, we have a great measuring tool, you can drag a measuring line that stays there, 
+
+That's a 2D system. This is a 3D system. There is no 3D fancy thing, you swap the axes around with a hotkey so things are always seen in a 2D grid. 
+
+Here is the 1973 Noordzji cube, from before there were digital type design tools. He set out a world view on contrast. Contrast is something you can control. This meant we could talk about type objectively, instead of saying "This is a bit Didot or a bit Baskerville" we could talk objectively about stroke contrast. 
+
+Here is Just van Rossum's "NoordzjiCube" applicatoin. This was inspiration for me, as you have 3 sliders and you can explore options; the designer must see it to make a choice. There is only an 'e' so that you see a lot of curve options but there are no serifs or too complex shapes. 
+
+If you send me an email, I give you a 30 day gratis trial to play with it. RoboFont or Glyphs or FontForge can make UFOs that you load into it. It uses Vanilla, Defcon. 
+
+www.superpolator.com 
+
+Laurence Penny Q: Your method to switch an alternate glyph shape. I think designers like the idea of a barless cent or dollar. I remember doing this for TrueType hinting. What about doing this programmatically than with a switch? Would designers adapt to that way of thinking? As a user of a design tool.
+
+Erik van Blokland A: I'm not sure graphic designers should be given too many choices. Many never use stylistic sets. I think type should just do the thing it is meant to do. If you don't need it, you don't need it. I'm not here to sell the idea of making all cents and dollars barless in heavy weights. But then you need a lot of OTL code to swap things around afterwards. Well, this doesn't do everything I want it to do, its useful for what it does. 
+
+Q: What is Procrustes?
+
+Erik van Blokland A: Thereis an old story about a bandit who kidnapped people and fit them to his bed by chopping off their feet. 
+
+Paul Sladen Q: Could you say more about how you drew the 
+
+A: DrawBot was started by Just van Rossum and now maintained by him and Frederik Berlaen. It allows designers to learn Python with eye candy. Its inspired by 'Design by Numbers' by John Maeda which inspired Processing. You can select and click and drag on the co-ordinate values to change them! You can save PDFs, access UFOs, save movies if you make frames, multi page PDFs. You can teach with it. Its nice to try things out as a beginner, but you can do complex things. It can run for hours, leave the computer with fans running fast. There is OpenCV, other C things, but I don't know them. I like using the computer fan running, its satisfying. This is showing the line space influence. These are massive LAMPS in the text, much bigger than the counters, and they influence the perception of the letters. I want to MEASURE the light. DrawBot is free, open source - a selling point! - and its at drawbot.com with docs at drawbot.readthedocs.com . There is also NodeBox with more documentation and users; it started as a slightly grumpy fork of DrawBot and they do their thing now and we do ours. There are other alternatives around. 
+
+Julian Mon : How does this work with type design tools relfect on teh students at the KABK? Is it useful for them? 
+
+Erik van Blokland A: Yes, when you show people things they take it in new years. Frederik is a Type and Media student and wrote wonderful software when he was there and went on to make RoboFont which I use every day. We teach programming to all students, and more use it than you think. Sometimes you have 1,000 variations or 1,000,000 points. I made a font with 5,000 masters and each font had 1,000,000 points, and you can't deal with that by hand. Doing little bits of automation, there is always a need for it as there are things the developer couldn't antipciate that you need to do. Here is the best feature of RoboFont, its a complete UFO editor that generates OpenType, the best thing is the Scripting Window. Where are we going to go? I can make slow, inefficient code and I can hack it together in the Scripting Window. Personally, I don't use code to synthesise letters. I've seen nice things that way, but I prefer to draw things, and I use scripting to massage them. I think the drawing should be done by me - its too much fun! I want to do that. 
+
+Adam Twardoch Q: I like how ogonecks have their own gropu in your Robofont. 
+
+Erik van Blokland A: Does ogoneck mean little thing?
+
+Adam Twardoch Q: It means little tail. 
+
+Erik van Blokland A: Some type have it drawn very big. Its misnamed. :)
+
+Pablo Impallari Q: Going to the optics, you say white goes into black. For body text faces at small sizes, type designers make the sidebearings bigger. We add more white. Should we then make sidebearings smaller? 
+
+Erik van Blokland A: No, as things then jam together. I don't have a list of things to do, other than look at it and pay attention to what your eyes tell you. Small type is 11pt and smaller. You become aware of type at that size, and half the problem is solved. Dealing with shapes at such scales, we need to know about that. Be interested, curious - experiment! 
+
+Pablo Impallari Q: Right, the letters have to survive in the light. 
+
+Erik van Blokland A: I don't know. Finally, here are 2 triangles, a black rect under a white one with a tall isoceles triangle going up in black, and down in white, and they are the same numeric size but the white appears bigger. 
+
+Adam Twardoch Q: But inkspread would compensate for this?
+
+Erik van Blokland A: No, because pantographs scale linearly and their type was too thin, so they added offsets to thicken black shapes up at small sizes. 
+
+15h30 Pause
+—------------
+
+
+
+16h Re-Typographe: thought exchange between docment image analysis and typographical interpretations, Bart Lamiroy (FR)
+------------------------------------------------------------------------
+
+
+Conference in french
+
+Summary: In this talk we will present some preliminary experiments and thoughts on
+how tools for the analysis of images can be built on to reinterpret fonts used in 
+documents from the Renaissance. The idea is to deconstruct instances of
+specific typefaces (i.e. from scans of real printed documents) into as plausible as 
+possible “modern” typographic interpretation hypotheses and to identify the 
+resonant echoes between state-of-the-art document image processing algorithms 
+and those interpretations. In other words, identify robust and useful algorithms 
+that would allow extracting semantically significant measurements and models 
+from scanned ancient documents that would allow expressing the used typefaces 
+in a modern typographic language.
+
+Biography: Bart Lamiroy is Associate Professor at the Université de Lorraine, and member of the QGar team of the LORIA Lab. He received his M.Sc. (1994) and Ph.D. (1998) from the 
+Institut National Poytechnique de Grenoble. He has a broad experience in Machine 
+Perception and, over the years, his research topics have ranged from Content Based 
+Image Retrieval over Visual Servoing to Document Image Analysis. He is currently 
+focusing on measuring and modeling performance analysis of machine perception 
+induced interpretation algorithms. The recent re-opening of the Atelier National de 
+Recherche Typographique on the ARTEM campus has led him to focus on typographical 
+interpretation of document images.
+
+
+Wednesday: Automatic type design
+====================================
+
+9h30 From metal to phototypesetting to digital: the evolution of the type design process. Alice Savoie (FR)
+—------------------------------------------
+
+Conference in french
+
+Summary: Alice Savoie will discuss the influence of technological evolutions on typeface 
+design. In particular, her presentation will focus on the decisive period between 
+the 1950s and the end of the 1970s, when metal type gave way to 
+phototypesetting, and later to digital technologies. The place of the type designer 
+within the type production and distribution process will be discuss, as well as the 
+new design opportunities and challenges faced by designers at a period of 
+technological upheaval.
+
+Biography: Alice Savoie is a type designer and a researcher specialized in the history of 
+typography. Since 2013, she is teaching at the Atelier National de Recherche 
+Typographique in Nancy and in the post-graduate course “typographie et langage” at 
+the Esad Amiens. She graduated from the École Estienne in Paris and from the 
+University of Reading in the UK, and collaborates with various design studios and 
+foundries including Monotype (UK), Process Type Foundry (USA) and Tiro Typeworks 
+(Canada). Her work involves the design of custom typefaces for branding and 
+publishing purposes, as well as the design of multi-script faces including Latin, Greek, 
+Cyrillic and Hebrew. She is finishing in 2014 a PhD thesis at the Department of 
+Typography & Graphic Communication at the University of Reading, in collaboration 
+with the Musée de l’imprimerie in Lyon. Her research focuses on the design of 
+typefaces in France, the UK and the USA during the phototypesetting era. 
+
+
+
+10h15 The dematerialization of type, Richard Southall (UK)
+—------------—------------—------------—------------—------------
+
+Conference in english
+
+Summary: In numerical photocomposition, the physical elements of traditional 
+photocomposing machines – character selection mechanisms, sizing lenses and 
+image positioning mechanisms – are all replaced by their virtual equivalents. 
+Similarly, the character images on the photomatrix are replaced by numerical 
+specifications for their shapes. Richard Southall’s presentation examines the history of this dematerialization, from the pioneer scanned-matrix and digital machines of the late 1960s to the launch of PostScript and the Apple LaserWriter in the mid-1980s.
+
+Summary: Richard Southall was born in London in 1937. He took his first steps in the type 
+manufacture at Crosfield Electronics in North London in 1965, where he worked first on 
+matrix specification for the Photon-Lumitype family of photocomposing machines and 
+later on the development of photographic matrix-making systems. In 1974 he joined 
+the Department of Typography & Graphic Communication at the University of Reading, 
+where he designed a series of fonts for the direct digital generation of movie subtitles 
+on broadcast television. Between 1983 and 1990 he spent two years at Stanford 
+University, and worked at Xerox research centres in Palo Alto and Cambridge. In the 
+mid-1990s he made digital fonts for computer-driven display systems which demanded 
+both high decipherability and small pixel sizes. In his last large project, from 1995 to 
+1998, he made use of his experience at Stanford to write programs in the Metafont 
+language that realized Ladislas Mandel’s Colorado family of typeface designs as digital 
+fonts, and routines in the TeX language that used the fonts to format example pages 
+for telephone directories published in the western United States. His book ‟Printer’s 
+type in the twentieth century” has been published in 2004
+
+
+
+11h30 More tools, please! Frederik Berlaen (BE)
+————————————————————————————————————————————————————
+
+Conference in english
+
+Summary: None.
+
+Biography: Frederik Berlaen is a type designer with a love for programming and scripting. After studying graphic design at Sint-Lucas in Ghent, where he got the passion for pure black & white type, he went to study typedesign at the Royal Academy of Art (KABK) in The 
+Hague. He successfully got a Master Degree at the postgraduate course Type & Media in 2006. His final project was not a type family but an application which studies the broadnip and pointed pens, called Kalliculator . The app could generate thousands of typefaces. Frederik Berlaen works under the name of TypeMyType providing font services, 
+programming and teaching at Sint-Lucas Ghent and at ECAL in Lausanne. www.typemytype.com
+robofont.com
+
+
+14h15 Prototypo, from sketch to code, Yannick Mathey & Louis-Rémi Babé
+————————————————————————————————————————————————————————————————————————
+
+Conference in french
+
+Summary: Prototypo is an open-source online application that allows to control the design of a complete typeface using more than twenty sliders, to produce a wide range of 
+different styles, from classical to experimental shapes. Began in 2009 with the programming language Processing by Yannick, the project has been relaunched in 2013 with the arrival of Louis-Rémi Babé that by providing technical expertise helped reinvigorate the project: the alpha version allowed to play with letters, the version in preparation will create generative fonts, allow users to design their own templates, creating a new way of conceiving the design of super-families.
+
+Biography: Yannick Mathey is a specialist in nothing and curious about everything. It was during his last year of studies at ESAD Strasbourg that he decided to learn the basics of letters & code, and to develop the alpha version of prototypo. He works nowadays in the same vein, discover new things every day, designing and selling interactive platforms (and more) by the way. Louis-Rémi Babé’s passion is to create websites and web-apps. He fell in love with JS in 2004 and has contributed to patches and features of jQuery 1.X (if you have browsed the web in the past 9 years, you’ve used some code he wrote). He’s an active mozillian since 2009 and was an intern at Mozilla Paris in 2011. He’s helped starting a local JS meetup: LyonJS. prototypo.io
+
+
+
+15h Chicken and Eggs. Designing large font families & systems, Simon Egli (CH)
+---------------------------------------------------------------------------------------
+
+Conference in english
+
+Summary: Large font families are on demand these days. Using interpolation models and 
+Metafont to enhance the font design process is the idea behind the open source 
+project Metapolator. Simon Egli is proposing a font design environment to 
+synthesise fonts without loosing the traditional approach on letter design.
+
+Summary: After an apprenticeship in typesetting, Simon Egli studied typographic design at the “Fachklasse Typografischer Gestalter” in Zurich. Subsequent to a two-year phase of hands-on work in the graphic arts industry, he went on to study Graphic Design at the University of Art and Design Zurich (ZHDK) and graduated from Central Saint Martins (CSM) n London in 2006. He is since collaborating with various design studios, including Stefan Sagmeister in New York. His work also includes visual identities for clients as MTV, a modular type-kit for TESS supermodel agency in London, a self generating typeface (available at gestalten.com) and fonts commissioned by Google. He has won awards such as The Most beautiful Books Switzerland, D&AD and got nominated for the Swiss Federal Design Prize. His latest projects deal mainly with parametric type design: www.metaflop.com  www.metapolator.com www.simonegli.com
+
+
+
+16h Conclusion
+—---------------
