@@ -1,5 +1,4 @@
-automatic type design
-==========================
+# automatic type design
 
 International typography symposium, Nancy, campus Artem, 6-7 may 2014
 
@@ -7,8 +6,7 @@ rue du sergent Blandan, Nancy
 
 http://automatic-type-design.anrt-nancy.fr
 
-Introduction
-===============
+## Introduction
 
 A printed document can be digitized 
 in two different ways: either as a static image, 
@@ -87,10 +85,11 @@ and Metapolator.
 Tuesday: Recognition of typographic shapes
 ============================================
 
-9h30 Introduction, Thomas Huot-Marchand
-—---------------------------------------------
+## 9h30 Introduction, Thomas Huot-Marchand
 
-9h45 Jacques André (FR), OCR and Renaissance “ typèmes ”
+[missed it]
+
+## 9h45 Jacques André (FR), OCR and Renaissance “ typèmes ”
 ————————————————————————————————————————————————————————————
 
 Conference in french
@@ -119,9 +118,9 @@ Retired for ten years, Jacques André gave a more historical look at his studies
 recently published (with Christian Laucou) a History of typographic writing - the 
 nineteenth century (Ed. Perrousseaux)
 
+[missed it]
 
-
-10h30 Paradiit. Exploitation of the redundancy of forms for content analysis and transcription of early printed books, Jean-Yves Ramel (FR)
+## 10h30 Paradiit. Exploitation of the redundancy of forms for content analysis and transcription of early printed books, Jean-Yves Ramel (FR)
 
 Conference in french
 
@@ -158,11 +157,9 @@ the CESR Tours, that intends to produce tools exploiting the redundancy of forms
 present in texts to produce new tools and knowledge helping the treatment of early 
 printed books. 
 
+[missed it]
 
-
-
-11h30 Digital Cuneiform, Johannes Bergerhausen (DE), 
-——------------------------------------------------------------
+## 11h30 Digital Cuneiform, Johannes Bergerhausen (DE), 
 
 Conference in french
 
@@ -184,9 +181,9 @@ Francisco, Weimar. Since 2004, he is working on the decodeunicode.org project,
 supported by the German Federal Ministry of Education and Research, which went 
 online in 2005. Semester of research 2007 in Paris. www.decodeunicode.org
 
+[missed it]
 
-14h Nancy / Fonzie, Pierre Marchand (BE)
-----------------------------------------------------
+## 14h Nancy / Fonzie, Pierre Marchand (BE)
 
 Conference in french
 
@@ -281,8 +278,7 @@ Pierre: It depends how familiar with software development. I can explain in 20 m
 
 
 
-14h45 On digitization, Erik van Blokland (NL)
-————————————————————————————————————————————————————————————
+## 14h45 On digitization, Erik van Blokland (NL)
 
 Conference in english
 
@@ -458,16 +454,15 @@ Adam Twardoch Q: But inkspread would compensate for this?
 
 Erik van Blokland A: No, because pantographs scale linearly and their type was too thin, so they added offsets to thicken black shapes up at small sizes. 
 
-15h30 Pause
-—------------
+## 15h30 Pause
 
 
 
-16h Re-Typographe: thought exchange between docment image analysis and typographical interpretations, Bart Lamiroy (FR)
-------------------------------------------------------------------------
+## 16h Re-Typographe: thought exchange between docment image analysis and typographical interpretations, Bart Lamiroy (FR)
 
 
-Conference in french
+
+Conference in English
 
 Summary: In this talk we will present some preliminary experiments and thoughts on
 how tools for the analysis of images can be built on to reinterpret fonts used in 
@@ -489,12 +484,37 @@ induced interpretation algorithms. The recent re-opening of the Atelier National
 Recherche Typographique on the ARTEM campus has led him to focus on typographical 
 interpretation of document images.
 
+[Was late as tending to work]
 
-Wednesday: Automatic type design
-====================================
+So, current state is that we have Agora that segments pages to glyphs with noise, finds the xheight and body height, and make average letter shapes, which result in contour approximations and skeleton computations. 
 
-9h30 From metal to phototypesetting to digital: the evolution of the type design process. Alice Savoie (FR)
-—------------------------------------------
+This works one letter at a time. If we measure body height of the i, e, a, they are all different. They are linked together. We want the x height. 
+
+Adam Twardoch Q: The body height is from metal, its the invisible size of the printing types. 
+
+Right, its the glyph bounding box I guess. 
+
+When we have these things, we can feed them back to each other. With contour and skeleton we can measure stroke thickeness, and solve alignment problems, or do vertical and diagonal stroke detection better. 
+
+This is the result. 
+
+Further work: We want to imrpove the average shape computation; refine measurements; take stroke coherency into account; detect stems; and cross correlate the x-ehgih over all characters
+
+Finally, a demo!
+
+[Its a Mac OS X application, but has its own toolkit. Odd. :]
+
+Here's an 'S' and I have a slider for stroke width. 
+
+So, this is a fuzzy view. We don't have any X as they are hard. here is the Y. They are hard because of the junction, and X is worse. 
+
+...
+
+
+
+# Wednesday: Automatic type design
+
+## 9h30 From metal to phototypesetting to digital: the evolution of the type design process. Alice Savoie (FR)
 
 Conference in french
 
@@ -521,8 +541,8 @@ typefaces in France, the UK and the USA during the phototypesetting era.
 
 
 
-10h15 The dematerialization of type, Richard Southall (UK)
-—------------—------------—------------—------------—------------
+## 10h15 The dematerialization of type, Richard Southall (UK)
+
 
 Conference in english
 
@@ -574,9 +594,7 @@ different styles, from classical to experimental shapes. Began in 2009 with the 
 Biography: Yannick Mathey is a specialist in nothing and curious about everything. It was during his last year of studies at ESAD Strasbourg that he decided to learn the basics of letters & code, and to develop the alpha version of prototypo. He works nowadays in the same vein, discover new things every day, designing and selling interactive platforms (and more) by the way. Louis-Rémi Babé’s passion is to create websites and web-apps. He fell in love with JS in 2004 and has contributed to patches and features of jQuery 1.X (if you have browsed the web in the past 9 years, you’ve used some code he wrote). He’s an active mozillian since 2009 and was an intern at Mozilla Paris in 2011. He’s helped starting a local JS meetup: LyonJS. prototypo.io
 
 
-
-15h Chicken and Eggs. Designing large font families & systems, Simon Egli (CH)
----------------------------------------------------------------------------------------
+## 15h Chicken and Eggs. Designing large font families & systems, Simon Egli (CH)
 
 Conference in english
 
@@ -589,5 +607,4 @@ Summary: After an apprenticeship in typesetting, Simon Egli studied typographic 
 
 
 
-16h Conclusion
-—---------------
+## 16h Conclusion
