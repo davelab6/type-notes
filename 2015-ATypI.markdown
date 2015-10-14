@@ -323,3 +323,73 @@ Adam: Its FontLab 6 with the roman VI.
 
 * * * 
 
+OpenType History
+--------------------------------
+
+[10 mins late]
+
+Vlad: Consumer Electronics starts with standards, even in reverse of typical industry process. I approached ISO and they said, we already have a font standard! Philips licensed PFR from Bitstream, and as a matter of business insurance, they added it as an appendix to another digital technology standard. So PFR was a font standard. 
+
+I told them openType is so superior and should be considered, but they said no because “OpenType is Proprietary” - no guarantee that the MS website will maintain the spec there. 
+
+I saw that this was a big thing for them. So I approached MS and said, you have OpenType of 6-8 years of investment in development, would you consider releasing all the rights and letting them take over? 
+
+Surprisingly the answer was almost totally yes, although I saw some healthy skepticism from some MS folks. A few months went by for lawyers to get an official release, MS went to ISO officially, did all the legal work to release all rights, and in 2006, the document was finalized, and in 2007 the ISO standard was published. 
+
+Since then the format is Open Font Format, in the IT / Coding of Audio Visual Objects - Chapter 22; equivalent to OpenType 1.6 with support for context alternatives, Stylistic Sets, and other things; a big change at this point. Not every problem was solved. 
+
+A highly controversial item at that time was about the 64k glyph limit. It was an issue then as it is today, and a group looked at how to solve the problem without breaking the backward compatibility. We looked at how to make a higher level fix than OpenType, and that is a new standard, Chapter 28 of the ISO spec, Composite Fonts. 
+
+I think this has not got the attention it deserves, its a way to use XML to make a receipt for many fonts to be joined together in a single virtual font. A set of global metrics for the global font, to size and position them appropriately. Languages and unicode ranges can be supported. If used properly, it is a powerful tool. 
+
+Meanwhile OpenType kept improving, and color fonts was the next big thing. By 2012/2013, we had a good idea about what could be done for Color Fonts in OpenType. This is the big 2014 MPEG meeting. That was the first time we got such a broad set of companies to join together in font format development. 
+
+Here is a MS layer fonts example. Then the SVG example. If you thought Comic Sans was bad, wait for colors fonts to arrive! :)
+
+Greg Hitchcock jokes that he could _really_ see OpenType becoming an ISO Best Seller, but now it has happened! :D
+
+Si Daniels: So that’s a quick over view of the last 18 years! 
+
+Behdad: How many downloads? 
+
+Vlad: You don’t have to pay to get it, you can see the free link, but you can opt to pay for it, and many people do. 
+
+Roger Black; You are saying that there are some failure of nerve, a change or heart, a change of management, that caused abandonment of direction in TrueType and OpenType, and TrueType. I thought apple wanted MS to make it a standard; the GX thing floored me. Its an acid flashback I don’t want to have again. It caused such fall out at our little company that I don’t like to think about it. I think Apple walked away from TrueType at that moment. But you talked about TrueType as a web solution. MS walked away from it like that and we got other stuff. 
+
+SI: This is a short version. You need to talk more about Type 1 and TrueType early days to understand that. Everyone I spoke to at MS at the time, thought GX would be what we did, but it was only the legal block with Apple that stopped it. 
+
+RB: That was a Sculley thing?
+
+SD: Yes, and then Apple supported OpenType quietly without any agreements in place. I think with the web, EOT stands for Embedded Open Type. It was something that people cared about at the time and the problem related to the competitors moving to open standards. Netscape supported PFR and dropped it because it was proprietary, and there was no interest in standardising EOT as it was build for DRM and other concerns. So EOT stayed as a supported technology from MSIE4 until 8-10 years later. 
+
+Chris Lilley: We standardised font downloading in CSS, then Netscape became Mozilla and couldn’t use PFR as they were now open source. We did half the solution; we have a download solution with out an interoperable format. We needed a PC for EOT and a Mac for PFR and it was too much work and people didn’t care. Only when WOFF arrived. 
+
+RB: Open standards were great but MSIE had the market by 90% at the time. So any rational designers would use EOT. But no body did that. The EOT offers from foundries were not there. I forgot EOT included the OT part; I thought of it as something else. It wasn’t an open solution as the web community rejected it. We could have had web fonts 10 years earlier if we went for that. 
+
+SD: I totally agree. 
+
+Johnny G at Monotype: I don’t know if you all know the history Roger mentioned. The work MS did on EOT, that Vlad did on the working group, a lot of the stuff we talked about this morning would not be there. I really mean it, we couldn’t say that we see 50% web font adoption in 2015 without the efforts back then. 
+
+Si Daniels at Microsoft: So that’s where we came from. Next is where we are going. There’s an Open mic sessions, we’ll have people talk in order. Everyone gets 5 mins. 
+
+Kamal at Monotype: I worked at Monotype for 20 years. The last few years I worked on OpenType table developer to emulate various scripts of the world. By emulate, what do I mean? for many scripts, what you type to enter text is different to what you see at the end. We hide this transformation in OpenType tables, so a font is functioning if you type the right letters and see the right display as a result. The scripts I work on will not be familiar to most of you. So what I would add to OpenType is something I want to show with music notation. What we can do today with OT were a fantasy 20 years ago. As with anything new, initial adoption was fast but what was done with OpenType 15 years ago was much less than we can do now, as we understand it better. We break down characters into classes, base chars and marks. The bases are like the A and the acute accent is the mark. This concept of bases and marks is very common in many scripts. In OpenType we have them, and the main OT interpreter is the MS UniScribe. As assumption was made that marks have no widths and bases have a width. …
+
+Jean-Baptise Levee at Production Type, a foundry in Paris: I don’t pgroam code, or develop, but I design and sell fonts. I wish to ease my work and the work of my customers, the users. The first thing, I heard a lot about variable fonts, parametrics fonts, since the dawn of MM fonts. I have not seen something that is user orietnated. I would like something like a ‘liquid font’, a pattern, not a fixed design, it would support floats for more precise drawings, and that is rendering environment aware to detect it is on this OS/program, so the designer could pick the exact boldness or contrast for that system; this requires a family with widths, weights and contrast would be a design that flows seamlessly in its environment, from a fridge screen to a phone, tablet, laptop. Something a user can adjust to their taste. There are concerns about bad taste ;) But we should trust the user, and overestimate him or her, not the other way around. On some phones you can chose a font for your phone, an illegible floral script, but it isn’t our call to decide what a user should use. The OT rendering engine, that Kamal has already pointed to, but we as designers and users wish for something that looks more like proper randomness, not a small set of variants being rotated. It may not be too useful but it is a request. For kerning tables, there are limits that are frustrating; I would like to be able to kern triplets. That seems like a good option to have. 
+
+[ Toshi: Triplet kerning is possible today? ]
+
+[ Thomas Phinney: Yep, well, the format supports triplet kerning ]
+
+Ned at Apple: Often we need shorter glyphs for avoiding clipping, especially in limited screens (watches) then we need to fit text in a bounding box without clipping, especially on multiline text. We have a stylistic set that has a redrawn glyph (here an A that is lower to allow for the ring-acute to work) but this is not dynamic. We detect scenarios where this is likely to be needed. We would like to see something in fonts to support this. JSTF table today has a list of lookups that are progressively applied as needed. The bus might change the width of glyphs, which is an issue for layout engines; e.g. a standard form is a vertical conjunct with marks hanging below, and you might like a horizontal form to fit in a height box that changes the line lengths radically. There are indeed static approaches but we’d like a mechanism that is consistent across fonts. 
+
+Behdad at Google: [ lol his 1 slide has 7 sections with 5-8 points each ;) ] So, I think we can integrate GX into opentype. so what you can do with superpolator  you can do at run time. And clean up some of the old tables. I have a 2-3 page document. But those are the big things. 
+
+Vlad at Monotype: So, you look back at history, you see features can take a couple years to be implemented, and a few more years to become implemented. Some of the previous proposals imply changing the spec in a way that breaks backwards compatibility. I am not saying it can not be done, I think it is inevitable at some point, but please consider the cost of making a change that breaks backwards compatibility. “Cleaning up tables” across all implementations could be a huge cost. Please lets be cautious of this. 
+
+Raph Levien at Google: My day job is now the text stack on Android. I care about file size a lot, and speed of rendering; fancy OpenType things are really slow. To address that, a specific technical improvement, is to use WOFF2 style point encoding and eliminating the box. I’d like to see that, which is definitely a break. The smallest representation its the best. I think spiro splines could be best, but maybe not something for 2015. Behdad’s proposal fills in details about variation and interpolation, GX is close, but what if you made a new font and dropped it into a Mac 2, it would work ;) But its just cool, not needed. The speed of layout with state machines in AAT and Graphite is fast. …
+
+
+Jan Middendorp at MyFonts: I listen to users and foudnries, i know what foundries can do with OT features. I know that type designers and the industry is far ahead of the graphic design industry that makes apps and uses them. We had this choir speaking up about Adobe support of OpenType. We get dozens of complaints a day from users using Laura Worthington’s fonts with all features in MS Word and Apple Keynote. My presentation on Friday will also be about this; I see the industry as a broad thing. I think should bring some knives to the table for normal people, who are not stupid, but do not know as much as we do, to create stuff with what type designers are making. That would really help. 
+
+[ 15 minute break ]
+
