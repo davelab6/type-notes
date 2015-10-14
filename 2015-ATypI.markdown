@@ -613,3 +613,242 @@ Bruno Maag: A total falalcy. Something Dave Crossland may verify; its all Latin 
 JB Levee: I stay vague in general. The whole disussion here is type business. I am new in the busienss, just 10 years. Type business is 2 words. Its easy enough. Many are learning to design type - I teach - but everyone lives in a romantic world where the business doesn’t exist. Its like working in any bsuiness. My advice is to buy books about business. It is boring! But it is useful. Buy and read books about marketing. Its technical, lots of diagrams. It doesn’t make you a lesser artist to make a living out of it. You work with techniques, clients, constraints, prototypes. I feel uncomfortable hearing of basic economics in tehis room. Decrease price, increase volume in larger proportion than you think, so think twice about decreasing the price. Just like the legal side of type, the business is not so hard. Many art schools have business and legal people visiting. Be careful about what you step into. 
 
 Indra: I hope at ATypI we can continue a business forum more. I know tools and tech is important, but this side of the field should have a fixed form at the conferences. Thank you for attending and I hope to conitnue the discussion. So lets keep the dialog coming. 
+
+
+* * * 
+
+We have an exhibition from Reading, Letterform Archive, FAAP, Argetina, and others. Please go upstairs to see the exhibition. 
+
+Now, we had an incident today, something was stolen, and for your own security remember not to leave things around, and tomorrow. 
+
+* * * 
+
+Catherine Dixon
+--------------------
+
+Marina: She is a writer, designer, researcher, and lived in Brasil for a while. I think in some ways she is more Brasilian than I am :)
+
+Catherine Dixon: [ In Portuguese ] I am back in my favorite city, and so happy to be here. Thank you to ATypI, Marina, Claudio, Diego, Crys, and Henrique, and all those who dreamed of ATypI happening here. But I’m sorry I can’t speak the whole thing in Portuguese. 
+
+I’m sorry that I brought the UK weather with me, its a bit cold in here. There are challenges. I thought of what to say, where to begin. This is a talk with musings and thoughts of mine in recent months. Things that unsettled me. Its still wriggling a little in fact ;)
+
+What do I do? I am a writer, a teacher, and a designer. This is a book cover I designed for Penguin 10 years ago. I was a visiting professor at the Universe of Sao Paulo 2010-2011. 
+
+“Mas Tudo Bem”
+
+That is my talk’s title, and talking about challenges can be gloomy. I look for positives in the mix. You can say “the world will end” and brasilians will say “mad todo bem” :) A great expression. But I thought to check for other meanings on Google search, and Nirvana’s Lithium came up “but thats ok”  - so while I’m nervous _I’m not going to break._
+
+Here are the themes I wish to address:
+
+Workmanship
+
+Articulation
+
+Value
+
+Relevaance
+
+History
+
+Community
+
+Preciousness
+
+I do not have all the answers, just questions mostly. 
+
+There are bullet points, but note, “How powerpoint is killing critical thoughts” in Guardian
+
+Workmanship: In 1968, a small masterpiece, by David Pye, about the nature and art of workmanship. Of course gender bias in the name, workpersonship is tricky, but I want to say that in seeking for a term and finding this, I don’t want to give it up. 
+
+Workmanship is about execution; production; about HOW things are done. The role of DRAWING in type design, and typographic specification and production. Why not craftsmanship? 
+
+Craft is so problematic, loaded, knitting and strange things. Pye said “Craft is a word to start an arguent with.” 
+
+There is the workmanship of risk, you don’t know how it will end up when you start; it could go wrong or great at ay movement. always at risk during the process of making.
+
+and there is the workmanship of certainty, that is always found in mass production. 
+
+the distinction: is the result predetermined … ?
+
+next
+
+articulation
+
+the difficulty of communicating what workmanship is in typography. 
+
+This year penguin, by British publishers, made a series of books, for 80p, in their 80th year (founded in 1935) They are simple, pared down typography. No balance, feel clumsy, heavy handed. Here are the posters; this is not an ellipsis, but 3 full stops. 
+
+A simple, effortless typography is not effortless to create. Here is David Pearson’s Popular Penguin Classics. This is also budget work, £2 each, mass produced. They are light, have sensitivity. So you know it when you have got it, but how do you articulate it? 
+
+next
+
+Value
+
+Not that I advocate classicism, or to poke fun, ånd I don’t mean monetary value, but our value. 
+
+How do you value something you can’t see? 
+
+Richness
+
+“Unless workmanship comes to be understood [ the value will be lost ]”
+
+There is little understanding of where things have come from. This relates to the prior discussion about the type business. 
+
+Laura Potter medium.com/hand-brain/laura-potter-….  says that the global digital market makes the 
+
+Pragmatics
+
+toshi tweeted this this morning, about the tokyo olympics logo, that there is a complete undervaluing of what is happening to design; how long and how things should be done. "The next Tokyo Olympic logo selection will be another spec work. Worse, it only gives you about two months, and requires a new typeface too." https://twitter.com/Tosche_E/status/654241287135227904
+
+A quote about ‘machine creativity’ from a Dublin based software company
+
+Fiona Banner, makes up typefaces, including Avant Garde and COutier. Its  in creative review, talking of it matter of factly. “While a little ugly, type purists may baulk at it, it is very readable.” 
+
+I was angry that we have explored this territory, with expertise, and we are reduced to fussy twits. It made no reference to contextualizing the work, nothing about that; we are just fussy. 
+
+I thought of the antimacassar of design - the dolls put on chairs by grandma to spot them being worn - a ghetto of of OCD purists. 
+
+Wider problems with critique…
+
+The value of the expert critic, when everyone is a critic. 
+
+…
+
+So that is some of the things that unsettled me a little bit. 
+
+Paradigm Shifts / Things and the times are a changing
+
+I have real arguments with senior art directors in branding, and they talk about this businesses when we get together, and they say ‘the person they appeal to on the streets don’t care about typographic finesse, so why should we? it is the idea that matters’ 
+
+But I can see campaigns in London where the letters are drawn incorrectly. 
+
+There is a shift towards Generalism in state education. Here is a quote from Stuart Baily, “towards a critical facility” in 2006/2007 at Parsons School of Design, when they reworked the curriculum. He has since given up thispotioin. 
+
+“A common intuition that the existing model is no longer reasonably accommodating the requirements of today with regard to the ever blurring boundaries”
+
+and the wider ‘dematerialization’ of design. “Findeli argues for an attitude  which rejects … the fetisihism of the artifact”
+
+A shift to mediocrity. 
+
+“This is not a book” by TomAbba, talking about “the print people who is based on hard earned expertise, and online is consistantly mediocre and becomes acceptable over time.” 
+
+So what do I say to these 4 things?
+
+The workship of idea over execution? I am really bored of these lower common denominator arguments. There are many things we can Get Away with, but should we?
+
+Making burgers from horse meat, was a big scandal in the UK recently. People didn’t know so the argument was that they were happy in ignorance. The public rejected this and say no things must be done properly. 
+
+David Pye says in 68, “Design is so difficult to learn now simply because the area is in a state of flux” 
+
+The dematerialist emphasis on the ‘human context’ 
+
+Here is twitter, Petr van Blokland tweeted 2 days ago, ‘Where does the thinking of designers come from, that design can be made entirely by thinking in their heads? And then solve world problems?’ https://twitter.com/petrvanblokland/status/653465865845870592
+
+This is a UK shed in the 1950s. We have them for houses with little gardens; store furnative, tools, people like to spend time in them. a little retreat. as a culture they are a big thing. This is a catalog of them. You have the measurements so you can see how they will fit in your garden. 
+
+…
+
+Joseph Roth, The White Cities, reports from Farnce, 1925-1939: “Marseilles is w world where adventure is commonplace and the commonplace is adventureous”. 
+
+We should make design exciting again. 
+
+back to value. shed catalogs are not expected to be exciting. no big design prizes for that. So there is another problem of invisibility; there are opportunities for working with real human contexts that are missed. 
+
+so there are lots of ‘most beautiful dutch X’ or ‘most beautiful german Y’ but I would like to see a book of the ‘most beautiful gas bills’ - things that help people, especially with declining literacy levels especially in the UK. 
+
+“Its not difficult to be personally creative whilst culturally inconsequential.” said Norman Potter from his matchbox maxims in “What is a designer?”
+
+I went to a London event about the Murthy Press new initiative by an Indian businessman in NYC to make their canon of scholarship available. My colleague in Chennai studied Bronte and Jane Austen in school, not the literature of her own nation. 
+
+The formats were sometimes new, as from an oral tradition. Tiro Typeworks developed scripts (John, Fiona, Titus) and scholars speaking about what this meant, the start of a 99 year project. 
+
+This is typography and design at its very best. 
+
+There is always mediocrity. Should we limit our ambition? Pye “Why do we accept this as inevitable? We made it so and we can unmake it”
+
+Gibson: “The future will judge us for failing to address the systematic problems that we will be known for being totally aware of.”
+
+What are we doing? Nostalgia. 
+
+You might know a UK show called Midsommer Murder. This is my example of a big challenge for typography; the attitude of history. 
+
+Here this guy is killed with a printing press! Somehow this printing press, the body has gone into the press, and the pressure was enough to kill him. For this to work, for the body to be there, so the print is on his face, it would be lowered ;) [ big audience laugh about this ] 
+
+Rob Green has recently told the story of the ‘lost’ Doves’ Type, where the owners of a private press threw the type off a bridge into the themes, and Rob Green didn’t accept the common sense that it was washed away, he read EVERYTHING before that, he worked out where on the bridge the person would be stood, the tides, when the lowest tide would be, got a diving crew, and found it!
+
+Its not playing fast and loose with history, and also not accepting 
+
+I have a pet-hate of nostalgia, especially for letterpress. 
+
+Milo CEASA at Projecto Acaia, here in Brasil, that helps poorer kids express themselves. 
+
+And L’Automatica, in Barcelona, thinking about the power of a printing press. 
+
+Nostoalgia isn’t always a dead end. Rick Poynor quote. 
+
+Yep, ok, tradition has value. 
+
+Gibson: The fetishisation of craftsmanship for producing status object [ becomes the opposite of what was intended. ]”
+
+Archives. 
+
+Archives have value of the history they WILL tell us; they are the resource for examining the inadequate histories we do have. They reconnect us, show us the humility of seeing what has been done before. What they have potential to tell us, is why they are valuable. 
+
+I have had some connection to the St Bride printing library, that is in real trouble right now. There is not much news on this, and I want to use this platform to say ‘bear with us.’ Those who gave up on it, hold on! :) 
+
+Voices. 
+
+Voices, value and lore. The ATYPI list recently had some really great stuff in the old stories; its not what academic researchers are interested in, its the split that Mariane talked about this morning, that lore tells us about the past’s communities. 
+
+value vs preciousness. 
+
+A barrier to engagement of others. 
+
+Some disconnects: font functionality to the design community; there are UI problems, there are EULAs stimulus; termininology; “pro” etc. 
+
+I am well known as a typography person, so I often get calls from people with type licensing issues, who have 15 minutes before a presentation to recommend a type and the licensing comes in and 
+
+I saw type designer presentation where they said “to stop the silly designers getting it wrong, we did X” and I think this is tricky; those with design experience, and those without. I work with design professionals, but 
+
+This is something Laurence Phinney posted from the UK on Facebook, of opentype going wrong. I realize this is a massive physical sign outside a hotel, that has been made. Rather than laugh at this, think about why this has happened, why this happened, and what we can do to stop it happening. 
+
+Investment. 
+
+Beatrice Wardley and Stanley Morrison educated people why they would need typefaces, and the newsletters and the endless publications sent to printers, the people they wanted to buy from them, so they could know why and what to buy. 
+
+They shifted the relationship, in the past. We have nothing close to it; we imply that the education should happen in full time education, but there is no way to get to cover that in a curriculum today. 
+
+My own work? I like classification through description; frameworks for engagement with forms, so people have vocabularies for accessing understanding, to read into forms and understand what is going on - not boxes. 
+
+So this sense of preciousness is adding to our irrelevance. 
+
+It is time to share in order to be heard. 
+
+Diversity, ahem. Retro-sexism. In my blurb I had this term, retro-sexism. People I teach with asked me, what on earth is that? 
+
+If you read the online chats over the summer and you think you are in the 1970s! I was alive back then but as a kid. Is it now fashionable to be sexist? Someone in a online forum to say “as a woman it is intimidating to be here” and to be interrogated about this, is hard. 
+
+So if there’s one good thing to come out of all of that, it is www.alphabettes.org 
+
+Sisterhood
+
+I am a bit gender blind, I’m generally chattering without thinking too much about other things. I was thinking about being a member of an org, but lately I saw some things happening in that org that my younger colleague suffered. maybe me being easy going, was enabling. The older women in the org were more sort of tough, and so I thought that the whole org has a part to play. 
+
+Are these gender issues - Or ego based? We should be a reflexive community, looking to learn from each other, not just asserting. 
+
+How things are done matters, as well as why they are done. Yes the why matters. Typography is not the be all and end all, but its workmanship is not to be underrated. Its not as easy as it looks - e.g. google logo. 
+
+Here is Eric Hobsawn in “Fractured times: culture and society in the 20th century.” rom 2014, p.256-7. [ quote missing ]
+
+We need to stop this departure to planet typography. Being our own world. 
+
+if we want typographyic improvement, we have to equip a wider circle of people and create spaces for sharing more effectively. 
+
+Here is a long quote by Bruno Latour in 2003 (?) on ‘why has critique run out of steam? from matter of fact to matters of concern.” 
+
+Conference is not spectacle, most of the time, it is about a community conferring together, celebrating achievements, and beyond that reflecting on who else might become part of the community. 
+
+One last word of gringa advice: “The ugliest, most dangerous city you’ll ever love” said the NY Times. 
+
+I wish you a great confernce and to go and fall in love with this city!
+
