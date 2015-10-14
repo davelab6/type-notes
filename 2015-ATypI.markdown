@@ -393,3 +393,125 @@ Jan Middendorp at MyFonts: I listen to users and foudnries, i know what foundrie
 
 [ 15 minute break ]
 
+* * * 
+
+[ Panel ]
+
+* * * 
+
+Challenges of the International Type Market
+----------------------------------------------------------------
+
+Indra: I’m a typographer in Germany, I did book design, I have designed type but nothing published (mainly Bitmap fonts) and I’m currently a full time teacher of Typography at HBKsaar, I also do writing and consulting for type makers and sellers (their marketing dept) and I do consulting for companies and enterprises about choosing and licensing type. 
+
+I thought I have different views myself - from perspectives of users, academia, larger companies, and type designers - and there are different ideals and goals for selling type. 
+
+So the current market has many facets - licensing, EULAs, distribution, pricing, discounts, and scripts. 
+
+Licensing is a big topic today. There are different price levels for different regions. 
+
+Who are the players?
+
+Type Designer. Wants IP of the design recognized and its restriction. Also may want maximum dissemination of the type. Maximum royalities and income. 
+
+Foundry. Sometimes the same as the TD or different entity. A Tight EULA that holds up in court? How tight and complex should it be? A foundry wants it to be really tight so they have means to sue someone. Half my students never read the EULAs, they don’t understand a word in there and they are well educated German students with reasonable English reading skills. Licenses are restricted to some media, so they don’t allow use in logos. You want to make it easy, while maximizing revenues. 
+
+Distributor. That works with a lot of foundries, and this gives you different support requests; so they have a ‘house EULA’ and not make special cases which is less interesting to the foundry. They want to offer web fonts for sale, negotiate with OEMs, and they want to maximums their income so want to pay less royalties. They do earn their part, by doing marketing and support. 
+
+Graphic Designer / User. They want super easy licensing. Does anyone read the license? I don’t either. They want the maximum range of usage permission, for the maximum time. Even modifying it for a logo, which they may see as their right but it may not be permitted. If you license it from 1 distributor and it allowed and then license another font from another source and its not allowed, its confusing. They like shopping at a huge distributor with a familiar checkout process, support process. And of course cheap prices. 
+
+Enterprises. They want a worry free situation. They want a stable price (which can be very high) and that deal can fit their purchase system. 
+
+What can we do?
+
+Lawyers. They should not require all cap formatting and obscure language. David Lemon had some thoughts on this:
+
+David Lemon: Its language written by lawyers, for lawyers. it sucks for users. we often go back to adobe legal and try to do something, and are told ‘no’. For me an interesting thing is Matthew Butterick, who is a bar-passed lawyer in California, and he is proud of his plain language EULA that fits on a single page. He has offered his services to consult with other companies to draft EULAs. We on the type team hate it. 
+
+Indra: Right. If its 6pt and ALL CAPS, it is so reader unfriendly; some typography can help direct users to key points, like **no logo** in bold. 
+
+Foundries and resellers. Make it super clear customers are buying a license, not the fonts; that the purchase comes with the terms and fonts. make it easy to see online which licenses are available, and what they cost. Present EULAs or list/summaries early in the checkout process (or even before.) Provide info and search for character set and OT features of fonts. 
+
+Here are some questions I think of…
+
+Can we make licensing for different media easier? 
+
+Why can licensing a retail font can get more expensive than custom designed type? This makes no sense. How can retailing something that exists be more expensive than creating something new. I know a foundry in 90s that has no enterprise deal, only per seat licensing. How long can this last? Or will all custom fonts be yet another me-too Franklin Gothic? 
+
+How can we attractively price retail fonts without participating in a destructive race to the bottom? I don’t want to support a cartel, but is a 95% discount sustainable? 
+
+I made some notes for this presentation in this Google Doc:
+
+https://docs.google.com/document/d/1KK7bfib0oyZk0Aebf1k1rL8wNhg6pIIp3bCgXIt36Eg/edit
+
+Roger Black: Many foundries do not want to reprice fonts, its ‘market’ pricing, a single price for all customers. In Latin america, there is discussion that USA prices are out of reach, and they don’t want to pirate fonts, so what do they do? Use only Arial? Do you think there can be different prices for different markets?
+
+Indra: I think for custom shops this is the case, but a global online market, how do you determine where that person is? 
+
+Roger: Currency!
+
+Indra: But I used to buy fonts in USD because the Euro was strong, but this was in a way cheating. 
+
+Yves: Everyone wants the system to their advantage. Being here at ATypI, 10 years ago, the memebership was out of reach for people from some regions, and we did install a system that looks at how much you make and what percentage of an income can that be. So it makes sense that traffic violations should not have a fixed price but be in proportion to income or net worth because a $100 fine could be nothing to someone with a sportscar. 
+
+JB Levee: Pricing for digital goods, if a commodity is cheaper in another country, you always have a friend who can get and bring it to you. Graphic Designers are inherently looking to get cheaper fonts. A designer producing a font family in a region with a low living cost can afford to offer the work for prices lower than me in Paris with higher costs. 
+
+Indra: Are you worried about this?
+
+JBL: A friend told me, the best business plan is quality. My fonts are not cheap, somewhat expensive, but I don’t see myself selling them for less. Selling a retail font, it used to be an industrial process, with high levels of skills and expertise. It was expensive, retail or custom. Now the price is not low that retail changed but that production as become cheap and custom type for brands is seen so much so that they order new type over and over. See how fast magazine type comimssions are made. This solves all licensing issues, they deal with a single designer who is the foundry and distributor and all legal things are resolved with a direct phonecall. More and more custom fonts are demanded, so everyone will have their own custom font. Its a snowflake effect, everyone wants to be unique so no-one is. 
+
+Indra: I think a custom font should be more expensive, since its more valuable, than a retail font. I think this is a big divide. 
+
+?: Its an upsell situation, an ‘inside sale’. A 1:1 relationship between customer and type designer is good for selling more things later through the close agreement.   and the TDs want to encourage this, so they can upsell the customer. 
+
+Joyce Ketterer at Darden Studio: Custom work has a custom fee for the work, and it moves immediately to the retail models for licensing. Its always governeed by the same EULA. This was a solution to a paperwork nightmare. But we realised that it solves the problem you address too. You can offer discounts on licensing, there is a period of exclusivity. We don’t charge for that because we WANT that to happen; we don’t discount if they forego it; it helps us with marketing if its there. There may be more styles or weights in a retail build later, but the apple to apple comparison, yes, its the custom font that should cost more and that MORE should be the cost of the labour, specifically and clearly, and so you can have someone small who buys a custom font and they pay just the labour, but someone who pays just the labour pays more than something that someone else pays. That’s how we see that. I hope that helps. 
+
+Henning Krause at Monotype: There are so many arguments already before I said this. One thing is that customers are in fact, in price building models, the customer isn’t paying for work, but for the use they make from the work. The idea of licensing is built on this, not to let customers to pay on the work, which could be conducted in low cost countries, as then the price is lower. Instead licensing is based on value, not labour. There is a crossing point where clients are urged to go a custom route that is similar to a retail font they could have licensed; I think models should be adjusted to allow for that. 
+
+Henning: Also at Monotype, I found a company that found a clever way to register 
+
+Bill Davis at Monotype: At ATypI in Rome, before I had grey hair, we had a discussion about EULAs, and simplifying them. The problem is of our own making. How do you allow this community to set their own rules? Some allow modification, including it in a logo, others don’t. At Monotype, we make our own fonts, and also distribute other people’s fonts. The goal is to make it easier for customers. We reorder our EULAs to put first things first, and the challenge is to support differnet media. 10-15 years ago, only desktops. Older even, you had printer licensing. You had ATM licensed for 5 desktops. We live with those legacy business models but we keep up with the times, and if a computer allows you to do something, people do it. Every website, fonts.com of myfonts.com or your own website, its all about communicating to the user what you can and can not do. This is a healthy discussion. I’ll be taking notes to see what Monotype can do to help. 
+
+Indra: I don’t want to dictate to someone that they must do this or that. But I want people to get type from different places. Companies don’t even have a location anymore; TypeTogether has no central location any more. I work as a print designer and they say “I licensed this font and I will use it for 20 years” and they use Bembo licensed from 1995. Then type designers don’t make any money; novels are printed 1,000,000s of copies and they are typeset by a single seat license. I would love to see way - not like web fonts - that if you have a large print run or a large income, you pay a larger fee. How many freelancers and how many employees do you have? 
+
+Jan Middendorp at MyFonts: Its a complex ideal. You want to factor all things into the price? Its impossible. But there is a race to the bottom, and there is a race that already started. The race to the bottom of what a font costs to produce ended when diskettes were abandoned and everything was digital. T Shirts can get cheap, 1 BRL, and they cost per shirt. Maybe in bad conditions. But fonts, as soon as they were downloaded, and the marginal cost became zero, then whatever you want people to pay is always the revenue per copy. And how much time does it cost to make a font weight in 1992? You had to produce it. Today? You use Superpolator, you make good masters, you push a button, and its all automated. So as it gets cheaper to make them, you must find a balance. 
+
+Indra: the word of the week! Sliders
+
+Jan: “There are so many fonts! Why not just choose the best”. Price is one thing, but if you have fans, they can raise the attention on a font. Price is a clear quality signal. The race to the bottom now with plans, the fonts are a byproduct of the thing you buy. Or they are free, or you get Google Fonts that cost nothing. So to grow as MyFonts has done, or other things; pricing is a key thing, you compete against zero. Its not an easy thing to do. I want people to get a good sum. But the people who make the most money on MyFonts are the ones who sell cheapeest. If you sell $49/weight for a sans serif, and week 2 will be selling 2 copies, and it goes down from there. What can the alternative be?
+
+Indra: Its all because of the chart system. If the advantage of the chart and marketing and exposure from high sales numbers is not there, so there is less focus on the release and the first sales numbers. In the old days people said it takes time, no sales in the first 2 years is fine, and it was 10 years to peak. But now there is a focus on MyFonts on **fresh** fonts. 
+
+Albert-Jan Pool: Apple never did this with their iPhones. 
+
+David Lemon: I want to say that our bestselling fonts are fonts we released more than 20 years ago. That is true at Linotype. One factor in price pressure is that we have a blessing of sorts that there are 10x more skilled type designers, than even 10 years ago. This adds competition to the market. The only solution is to grow the market. I can’t talk about plans in that area, but we at Adobe are definitely hoping to do so - for what that’s worth. 
+
+Jan Middendorp: Back to the question of retail fonts being more expensive than custom type! Monotype is better business guys than we are. They make better prices than we do. The solution is not seeing oursevls as being paid for the work alone; that is not what they do, the work was done years ago. We must be more self concious about creating Intellectural Property, that is worth selling by licensing, not just being aid for the work. Obviously there are companies like Montype who make a lot of money for OEM customers, and on the other hand, there is Google giving away fonts for free. When you are a small foundry, you can never compete agaainst zero. You must be like JB LEveee, saying **this** is the price, and we must be more careful of these things. Competing to zero is an illustion. 
+
+Roger Black: There is resentment that the people at the low end; Google is giving away fonts. It was said that it is not wise to price fonts low to make money. I was fascinatined by JB Levee that each custom font is indistringiushable. … Typekit has a buffet pricing. People say to Font Bureau “Give us a trade gothic! Those guys [ at monotype ] want to charge too much for it” but sometimes they want a flavour that is in fashion. The hems go up, they want a font like this, the hems go down, they want a font like that. Or you get CitiBank, that licenses Interstate, and that is the high end; Tobias designed that 18 years ago, and it was a good deal for us to license that, and the work Pentagram did is great. At the high end of the market, we have deals that are fantastic both custom and retail. I don’t think we can push down any piece, its a big giant market. 
+
+Indra: I can see corpoations with expensive fonts that are now going for libre fonts just to not worry about it. There is a way to see some things dying down. 
+
+Bill Davies: Its like a balloon, if you squeeze too hard, it pops. 
+
+Vik Burian: A receipt for against hte race to the bottom is educating the users; conveying the quality of your work. Don’t go below a certain value. It depreciates the type busienss, and being an asset for people to work with; type isn’t an end product. The period of bestsellers is for us 2-3 years until a type really takes off. Perhaps its a diffreence, if you go for display, another story. But for text families, the real stuff, you are looking at another thing. The MyFonts charts are sans and scripts. 
+
+Katy Mawhood at Oxford University Press: I work with 3rd party typesetters, and we need broad terms. We look across print, PDF embedding (which can be complex) many foundries price us now per title, and its tricky! Especially legacy titles, we want to publsih a former print product that we distribute online. For instances where we use fonts not for a broad use for a design, but folios, displays, headers or something small, we make a decisoin to pick another font because the licensing terms for broad distribution is very expensive very quickly, and tracking things is hard too. So we want to continue using fonts from former editions, but we are encouraged by pricing stuctures to consolidate our font licensing. 
+
+Indra: A lot of font licensing for eBooks is off. If you don’t pay per edition in print but in eBooks it is confusing. I would like to see that simplified. I work as a print designer and I agree with that point. 
+
+Jan Middendorp: The charts are important. MyFonts, today, has emphasis on newness. It is the same as pop music; there are new songs in the hit parade. They all sell well, $10,000s a month for each of those families. THe ones undernearth, they do well too. If you are a fan of quality music, experimental music, you don’t grab the hit parade. You know where to find your things. You look in the text section of the newsletter recent issues. If you want hits, you go to the  hit list. Bargains, the offers list. But these things do not add up. 
+
+Indra: You see things in charts are selling well, and its 1 click from the homepage. If you get on any list, your type will sell well. I see your music comparioson, but prices for music are not as far from fonts. I don’t have any music subscriptions, though. 
+
+?: You can buy flatware from Ikea but don’t buy a couch there. You can shop at Target, anywhere, you get what you pay for, and and shut up. 
+
+Felipe Sanches: I’d like to highlight something that is underestimate in this panel. I observe that libre licensed fonts distirubted are mostly referred to by the fact ehy are free gratis, but its underestimated to take the opportuntiy to playing in that market, an open market for anyone toplay, anyone from a beginner to a more experienced can play in that market; any libre font is a potential for being hired to work on the glyphs, there is a big market for that. It can be compared to software, its not a communist thing, it has a lot of revenue potential; red hat makes a lot of money from libre software. 
+
+Indra: Custom expansion is the traditoinal type amrekt, and if you see libre fonts, targetting new user groups. I hear htis argument all the time, I see it is possible, but I don’t get it that you want to promote open source stuff to get the other clients or income sources. 
+
+Bruno Maag: A total falalcy. Something Dave Crossland may verify; its all Latin fonts. Who will order something from that? Open source for fonts is a dead end for font developers. There is no sustainable businss model for that. Have you ever worked with the open source community? The hours and hours you spend with peeople saying that terminal should be different. No. Open Source for fonts is a dead end. Forget it. 
+
+JB Levee: I stay vague in general. The whole disussion here is type business. I am new in the busienss, just 10 years. Type business is 2 words. Its easy enough. Many are learning to design type - I teach - but everyone lives in a romantic world where the business doesn’t exist. Its like working in any bsuiness. My advice is to buy books about business. It is boring! But it is useful. Buy and read books about marketing. Its technical, lots of diagrams. It doesn’t make you a lesser artist to make a living out of it. You work with techniques, clients, constraints, prototypes. I feel uncomfortable hearing of basic economics in tehis room. Decrease price, increase volume in larger proportion than you think, so think twice about decreasing the price. Just like the legal side of type, the business is not so hard. Many art schools have business and legal people visiting. Be careful about what you step into. 
+
+Indra: I hope at ATypI we can continue a business forum more. I know tools and tech is important, but this side of the field should have a fixed form at the conferences. Thank you for attending and I hope to conitnue the discussion. So lets keep the dialog coming. 
