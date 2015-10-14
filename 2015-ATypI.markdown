@@ -1,6 +1,6 @@
 
 Web Fonts
-————————————————————————
+----------
 
 09:30
 
@@ -119,7 +119,7 @@ Si Daniels: A lunch session Q&A will follow.
 
 
 Tech Day: Research
-————————————————————————————
+----------
 
 “Kevin Larson, Ann Bessemans, Nathalie Dumont, Anand Vijay
 
