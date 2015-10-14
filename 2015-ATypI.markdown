@@ -406,6 +406,104 @@ Indra: I’m a typographer in Germany, I did book design, I have designed type b
 
 I thought I have different views myself - from perspectives of users, academia, larger companies, and type designers - and there are different ideals and goals for selling type. 
 
+> The interests and problems of the
+> 
+> - Type Designer
+> - Foundry
+> - Distributor
+> - Graphic Designer / User
+> - Enterprise
+> 
+> when it comes to 
+> 
+> - Licensing 
+> - EULAs, as well as
+> - Distribution 
+> - Pricing 
+> - Discounts 
+> - Scripts and character-sets
+> 
+> 
+> Type Designer
+>
+> – IP of their design and its protection
+> – maximum dissemination (?)
+> – maximum royalties, pay
+> 
+> Foundry
+>
+> – tight EULA that holds up in court
+> – restrictions, licensing extensions (e.g. mod, logo)
+> – licenses that reflect extend of use 
+> – licenses for every medium
+> – licensee information
+> – easy handling of purchases
+> – maximum revenue/royalties­
+> 
+> Distributor
+>
+> – streamlining of EULAs
+> – offering type for widest use-cases as possible
+> – licensee information
+> – right to negotiate certain licenses (OEM)
+> – maximum revenue
+> – share for their part (e.g. distribution, marketing, support)­
+> 
+> Graphic Designer / User
+>
+> – easy licensing (online)
+> – maximum range of use, extend and duration
+> – understandable terms, prefer. no reading of terms
+> – ease of shopping, accounts, carts
+> – cheap prices­
+> 
+> Enterprises
+>
+> – worry-free font licenses
+> – covering maximum range and extend of use
+> – right to modify
+> – redistribution 
+> – flexible terms, tailored to their needs
+> – one-stop licensing (supplier registration)
+> – clearly quoted pricing­ upfront
+> 
+> 
+> Problems beyond that:
+>
+> – language
+> – local markets, different price levels
+> – quality, extent of product
+> – principle of contracts (who has one with whom?)
+> etc.
+> 
+> 
+> Some things we could change
+> 
+> Lawyers
+>
+> – don’t require all-caps formatting and obscure language
+> 
+> Foundries and resellers
+>
+> – make it super clear that customers are buying a license, not the fonts
+> – that the purchase comes with terms (whose?) and that customers should read them
+> – list covered points of EULA 
+> – make it easy to see online which licenses are available and what they cost­
+> – present EULA (or list/summary) early in the 
+> - checkout process or before
+> 
+> – provide info and search for character-set and (OT-) features of fonts
+> – present full character-set, widths, weights, etc … (and many more things I’d have ideas for when it comes to typeface websites)
+> 
+> 
+> Or more far-reaching questions
+> 
+> Can we make licensing for different media easier? Maybe with a bucket approach instead of for every case individually?
+> ­
+> Why can licensing a retail fonts get more expensive than custom font design?
+> 
+> How can we attractively price retail fonts without participating in a destructive race to the bottom?
+
 So the current market has many facets - licensing, EULAs, distribution, pricing, discounts, and scripts. 
 
 Licensing is a big topic today. There are different price levels for different regions. 
