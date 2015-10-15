@@ -956,4 +956,106 @@ SK: Did you recommend to change the names?
 
 A: It depends. they own the projects, they decided their own way. We try to help them of course but the name was their decision. 
 
+
 * * *
+
+Arabic Type
+--------------------
+
+Christian Sarkis and Lara Captan
+
+CS: WE collaborate and are both from Lebanon. We weill share with you some of our conversations to make the wider discourse stronger. 
+
+LC: ARabic region is in the middle east, north africa, to north indian subcontinent. As the script spread from east to west africa, there was a lot of invention. Here is the 8th century Kufi, square and geometric, and you have diverse integrations of the same shape. Here is Morocco script, playful and rounded. 
+
+The system remains today, and Arabs have mastered page layout, headine scripts and text scripts. Further west was the Nastaliq script, in Persia and in Pakistan. 
+
+CS: Much is said about the script and arabic expression. But this is not our focus; we look at the gems in the scripts for innovative typographic conventions. you have this, handmade, and this, loq quality print. 
+
+In latin, there was a long process of evolution. In arbic, there were disjointed jumps, and lot lost much of the core characterized.  What i try to do is star with current arbaic type, and bring back calligraphic features. What lara does is start with the written script and move forwards to digital type. 
+
+Challenges! Firs the cultural context. There is a clear direction for westernization. Everything seen in the west is validated, It has an impact on letterforms too. There are trends, like the Frankenstein trend, chopping up latin letters to make arabic ones. 
+
+The last trend, most prominent, with strength, is what people are dubbing Kufi. This was never something I understood, what they referred to, but his. There are no clear references to the existing Kufi. I polled on Facebook for designers and typographers, what do you mean by Kufi for contemporary types? And I got an inner answer, its based on the the square Kufi some way. 
+
+LC: I tried to verify this. Here is a 17th century mosque room detail, using bricks, glazed and non glazed, with square forms; you have a square grid, you have 7 lines and you make something that isn’t totally readable but is a nice pattern. My xperiment was to reduce the line width, to round the corners, and to compare this to typefaces recently published. 
+
+KS: We think experiments should also happen on the other styles, the cursive styles. They may be text or display but they are all meant to be read. We narrowed it down to a few parameters; that we can make digital type with. All these scripts are made to be read, not patterns. 
+
+Parametrs: cascading, slant, proptions, contrast, elongation, and alternation. lets walk through these and look at the challenges of each. 
+
+FYI, arabic has attached and detached letters in 1 word. 
+
+LC: There is slant in the baseline that we would like to see reintroduced. letters slip into each other. Also the link from the top, cascading. This is something that exists from the birth of the script. Everything has thing, and we can avoid it in type, sure, but we ought to have a choice for that. 
+
+Bala is a text type I am working on for that, and I constrain myself with the characteristics of naskh but to do some things differently. I do this with Decotype’s ACE. 
+
+To do Bala I played with the angle. I lookout at 5’, 0’ and 1’. Once there is angle, I must make sure the horizontal connections are correct at that angle, and also at the different levels.
+
+Cascade letters can continue, I use non words to demonstrate this. I make my initial letters as stable as possible, since the middle letters always change. the top letters can connect, too. I felt this was becoming out of control. So i made the exit point of all letters that can be final the same. 
+
+Cascading makes white space underneath, but with ACE you can place letters under each other. I wondered if cascading is really working for text, and I designed options for users to use full cascade to more horizontal versions. Instead of using full horitzonal, I wanted to balance tradition and modernity. See here, I use option 2 and 1; I dropped option 3. 
+
+KS: at type and media i wanted to use a diwani style, and bring back the levels of that. I looked at their grouping and quickly this failed. the words looked deformed, went way above stem height. it was meant for display, with a bold baseline. far form calligraphy; i wanted a modern type, not a traditional one. After a while, looking at the script, I had a epiphany, and the calligraphic slant of baseline is a human thing, for human hands doing writing, so i dropped it. then after a regular flat baseline was made, i then made a slanted baseline that was typographic. 
+
+It was still the first type that i know that works like this. The stacking, came after. I built in my mind the idea of translating calligraphic features and I tried to do a Naskh with stacking. This is similar to the conclusions that Lara got to; and I saw that some stacking was too wide. Here’s 2 options.
+
+For me, these are stylistic optimizations for display usage. This is where I differ from lara. 
+
+second, the script grammar. what is this? The rules that are functional or visual, for arabic script, to avoid confusion. we have a letterform known as ‘tooth’ which often are repeated. some types make these the same height and width. in hand writing, they always have different forms. 
+
+So in my first naskh exploration, i made this variation. The seem, looks like 3 teeth next to each other, so we needed these forms to avoid confusion. 
+
+It took me time to find what common ligatures were needed. Here are 4 typefaces, from calligraphic, to super modern compressed hairline, using the same ligatures. 
+
+LK: I also use script grammar. I want to now the grammar. in future type, if i have the full nkolwedge of the grammaar, i can use it it my design process. here you see some teeth, from 1 to 5. You can have 100 teeth and this algorithm will work for all. 
+
+When designing arbiac, with no references about where to begin, i decided to start my own analysis of the script, with help from ecotype, grouping into 3 sets. the red and black letters here show the variations; connections can be across, up or down in direction. 
+
+parameter 3 is the proportions. you have a rule in calligraphy for the dot of the pen giving a unit system. 
+
+KS: as lara said, we start from the script basis, but for me i want to make modern type, not going back to old classics. Here is an experiment to make counters much larger, even to break the stokes. Also to make the height of the counter larger. We do not know the effect of this on the script. 
+
+I did a height system, compressed to narrow to regular to extended, and there is no experiments of this that i knew. with a lot of personal research, on this, I realized that the counteroffers of arabic are working so differently to latin; in latin you have a circular form, but arabic counter forms have a trianglular basis, which must not be lost. 
+
+parameter 4: contrast. also a dear parameter to me, as i started experimenting with this at type and media, and this is like the gerri noordzji. he told me, in arabic, you have thick strokes going into each other! Wow! that was a revelation for him. in latin you avoid that to avoid clogging. 
+
+In arabic, you have pen angles at 115, 75, and 12. You have a lot of rotation too. 
+
+LK: In calligraphy, you take the pen, the lines are always being rotated, all the time. if you are not a skilled calligrapher, you can pick up, rotate and put down the pen to try this. The flat areas are translation of the pen edge. the dashed line here is drawn in parts. There is also pen shift, where the contrast is at the smallest point. 
+
+
+Here is a comparison of DecoType Naskh with the stages of the development of Bala. Krystian told me ‘arabic has triangles’ and this was a great idea that set a direction for the design, I took it more high contrast and then brought it back a little. 
+
+You must observe the script thoroughly to make it right. 
+
+I found at a point in the process that I would make it less curvy, having more flare, and these details are where we think people do not experiment enough. the sky it the limit to explore where the pen changes direction. 
+
+KS: I experiment with contrast, and when i worked on 2 typefaces, if you may, its like sans/serif in latin. you adjust the angle from 60’ to 30’ and this changes the letters radically. We learn latin contrast conventions, but in arabic, where to place it, and how fast it fluctuates, is not as well known. Also, the relation of the inner and outer strokes. The high contrast ones have the pen as influential, but in lower contrast i am more free from the pen. another experiment, there were 4 widths and 10 weights for each. What happens to letters when you make them thicker? in arabic, the whole latter grows taller as the stroke becomes thicker; unlike in latin. I tried, when i go darker, i bring back more pen like contrast, compared to the light styles. 
+
+Stacking them up, you can see the movement of the pen becoming more pronounced. 
+
+parameter 5: elongation and text. 
+
+I was working on the Louvre Abu Dhabi, and the arabic is always shorter text when Enlish and French on the signage. Elongation was key for this! Its a basic opentype feature, and i wondered why it wasn’t happening more and more. you select some letters an you can expand them like this. I do not allow any extension, but most are supported. Here is an example of the madda feature. 
+
+
+parameter 6. altenrates and swashes.
+
+LK: The arabic script allows for variety and alternation. the typographer has the joy of picking! I made alternates in Bala. The meem can be open and cascading, closed and cascading, or closed and flat. With ACE this can be for all unicode. 
+
+KS: The last 2 parameters are important but less essential than the first 4. it is a shame to lose those things. so a word on technology, we have so many possibilities with ACE. five years ago, there are more software. we need a to of coders to make tools for arabic. This is an example, made by Erik Vank Blokland, to make at tool for kerning and mark positioning, privately. 
+
+LK: I would love to see ACE and openType working, or ACE into OpenType. I would love to see the shapes you want to make and answer the things raised in the panel yesterday. I really like the minimal amount of glyphs; not more than 500 glyphs! and it offers all that you saw today. 
+
+KS: I am fine with OpenType, but we need more experiments to push it to the limits. All my work is OpenType. 
+
+LK: It will be nice to see a conversation with all type designers to begin making a base for arabic, to trampoline on arabic, to make it better, more diverse, and i would love to see that happen. 
+
+KS: I think the effort to experiment is more important than the results. 
+
+LK: I want to think the Creative Industryies Fund NL, to make the Bala family, and Mirjam Somers, my consultant for this project. 
+
+KS: I have a special announcement. The last 5 years I worked with Peter Bilak on arabic types, and a few hours ago we launched the website for Typoteque Arabic. This foundry is intended to make new type for the arabic script, to start a platform for arabic designers. 
+
+* * * 
