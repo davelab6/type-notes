@@ -852,3 +852,108 @@ One last word of gringa advice: “The ugliest, most dangerous city you’ll eve
 
 I wish you a great confernce and to go and fall in love with this city!
 
+
+* * * 
+
+Bestsellers
+-----------
+
+Our mission is to greet friends and joke around; we had a studio in the school in Prague, established 130 years ago, one of the oldest in the city. Its in the center, after WW2 it gained University status. 
+
+Graphic Design was a key course at that time. Today the Graphic Dept has 5 studios - Graphics, Illustration, New Media, TV Graphics, and Type Design. WE are the final studio. 
+
+The school is old, and we have 130th anniversary coming up. 
+
+…
+
+Frazisck Storm was key in moving forward Czech type design. Here are the typefaces from our studio. 
+
+…
+
+Best Sellers. Our students looked at the best sellers and set out to answer the question, “Is it possible to design a bestseller?” 
+
+There are all new editors, so many new typefaces, so you need aggressive pricing politically, a screenshot of $89 to $8.90. We have dealt with type experiments at the school for a long time. 
+
+Nice quote from Storm on how if he paid attention to best selling, he would never publish his worst selling font. 
+
+In 2014, we said to the students: Try to determine from fonts released in the last 203 years, the rents and modern approaches that [ led to best sellers ]”
+
+Students had to organize work groups, collect sales and popularity chart data, process the results, and define what a best seller is. We also worked with the distributors to get private information for the last few years. 
+
+We round that most likely successful fonts ahem these attributes: Sans serif, a family of 18 styles, a lot price of $19 per style, and bonuses like alternatives and fun styles. And to start off with a 90% discount. 
+
+The students found the winner of all categories is the grotesque. Then brush scripts. Clan sans, Centrale Sans, Nexa, Pluto Sans, and Brandon Text. Wishes Script, Cantoni, Hipster Script, Alana. The 3rd category was the old style - TREND, FRONTAGE, LiebeErika, Sketchetik, and Pady Rene. A lot of slab serifs were designed but they were rarely at the top of the sales chart. 
+
+Next step: with the knowledge in mind, design your own typeface with a full character set and high quality diacritics, utilizing local features. e.g., hipster script is far away from slavic folklore. This is the usual work of type design. Image of Fontal has quit unexpectldly. 
+
+We needed a good partner to bring the fonts to market. We thought they were a great collaborator and experimental environment. Their team had suggestions no how to improve things. image of email from Florian Hardwig. 
+
+So we nmade 12 typefaces, 69 styles, X glyphs, all done in 84 days. 
+
+We did 4 types for each of the 3 top categories. 
+
+Abnormal. Jan Buble. 4 styles: a sans with reverse contrast, unconventional means of catching the eye. It has monoline thin to a reverse contrast extra bold. 
+
+Bali Brush, Andrea Vacovska, 1 style; a bush script with a  lot of image glyphs. 
+
+Clown, Tereza Smidova, has 8 styles that fit together into 150+ unique type effects. 
+
+Joe182, Jan Horcik, is based on the big flat brush sign painter posters seen in NYC in the mid 20th Century. 
+
+Moniak Sans, Jan Buchtela, 6 styles. This seems like a trend, there are many new families that do not have italics, or italics come later. This family doesn’t have italics, Thin to ExtraBold. 
+
+Monolina, Petra Docekalova, 3 styles, a single stroke with a  round nib pen, ait has uppercase, lowercase, swash caps, and alt lowercases. 
+
+Rukola, Nikola Giacintova, 1 style, it has small caps and is an expressive swash script. 
+
+Sandokan, Matyas Machat, 1 style [ it has a ‘Monster’ vibe ] unusual connectors for lowercase, 
+
+Senohraby, Jakub Spurny, 4 styles. 
+
+Slurm, Nikola Klimova, 2 styles, regular and bold, each is a handwriting style, condensed, smooth. 
+
+Vegan, Vojtech Riha, 12 styles, based on a 60s sans from Czech [ looks like Roboto ]
+
+Zirkel, Ondrej Kahanek, 16 styles, a geometric sans. 
+
+Step 3: Presentation. Descriptor the type with 1,000 chars, make a printed pack and specimens. For the summer exhibition, all the fonts were made available on MyFonts.com and this was also the start of our research based on our predictions. 
+
+Each font had a specimen printed, as each new typeface ideally has a printed specimen. We looked at the issue from the other side, the perspective of design studios who buy fonts, and the type designers who must somewhat respect clients and market demands. 
+
+We made a questionnaire for type designers, and 
+
+Cornel Windily, lineto.com, says that “the problem may be that all these small foundries feel powerless, the concentraion of the market in 1 company. Also I think that the concept of Google Fonts is not beneficial to type designers.” 
+
+So, the final step, create a my fonts account and offer the font for sale. 
+
+Her are the first 50 days. Rookie, 532 sales. Clown, 231. Then the rest of the year, the sales ratio was much the same. The total after 1 year, 1,500 total. The discounts were for 30 days to start. This is the effect he discount had a sale for the fist 50 days. 
+
+The sales numbers show script fonts were 56%, train and handmade were X%. 
+
+So guidelines? Make a script, 1 style, medium price of $40, with bonuses. And start a discount of 50%. 
+
+Our results differ from the initial research. Our observations was ttotally different. The task was successful, they tried free market practices within an academic environment. 
+
+They continue in individual directions and we are very happy. This project involved many people and we would like to help Jan Middendorp, Dan Reynolds, and Filip Blazek, and all the students who dropped a lot of private life and free time. 
+
+And thank you for attending. 
+
+http://bestsellers.umprum.cz
+
+Questions? 
+
+Q: What software did you use? Plugins?
+
+A: Glyphs and FOntlab, 50/50. Clown was in Glyphs. No specific plugins. 
+
+Jan Middendorp: I was the first person to approve this. It was radical! We don’t expect it to be a habit. The berlin team at my fonts looked at this and said they are good designers, that are reaching, and its an interesting research of my fonts, its very short, we are all part timers at my fonts, and so it was interesting to see. We thought Rukola would be a best seller. The sans serifs, the research was good, but you should have tried an 80% discount that would have changed the performance. I don’t like this happening but it is happening. If you are not well known, you must get attention, and use a big discount to do that. We were missing how a new type in a well populated genre was presented at a crazy discount. That’s because you were careful, which is also good. Thank you for the project, we enjoyed it!
+
+Sonia Knecht: Thank you for this, a wonderful project! Great contribution to the business discussions at this event. Can you discuss the topic of names. How did you pick the names> Rukola is an international name. 
+
+A: Its original name was “Titi Daisy” and she chose a name already used, and ended up with this. The name is a big deal for any designer, and they did considered this in their business plan work. It is so difficult, and some students did pick unusual names. 
+
+SK: Did you recommend to change the names?
+
+A: It depends. they own the projects, they decided their own way. We try to help them of course but the name was their decision. 
+
+* * *
