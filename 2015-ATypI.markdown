@@ -1249,3 +1249,137 @@ Here is fontographer, looking at his own designs again, for PS digitization. he 
 To leave you with a thought: “Certainly the art of writing is the most miraculous of all things man has devised.”
 
 * * * 
+
+Jan Middendorp
+------------------
+
+This talk was submitted in spring, when type designers were pissed off with pricing, discounts, and generally that people don’t like things done by monotype. Don’t get me started ;) 
+
+So I proposed to talk about the A BC of type, art business and culture. 
+
+The letters a white white and the background is grey ;)
+
+I have 3 hats, author editor and translator of serious books about type design and graphic design
+
+I am a professional type writer
+
+And i worked as the chief consultant and editor of the my fonts newsletters, and also the last 3 years as the principle gatekeeper for the bestsellers list
+
+ANd I organized a poster competition in Dubai
+
+I am a user, a critic, and a salesman of type
+
+After submitting my talk, I changed my mind. I started in May, Peter Bilak presented FontStand, welcomed by many independent foundries, that would never work with other distirubutrso before. 
+
+Peter started his talk by talking of talking about the business of type. 
+
+This guy, bankrolled gutenburg, then sued him, took his stuff and his apprentice. 
+
+Type is a tricky balance of type, business and soap opera. 
+
+Fontshatna it a lbit early to discuses but there was the Q&A with Kupfers and the bestsellers, and we look forward to stephen coles keynote tomorr.w
+
+so the business is reduced here. i decided to make it more personal and i will ask questions that have been bugging me about type culture, and weave in my work with my fonts. not because i am presenting my fonts - just presenting personally today - but i use my position to do something good for type culture. 
+
+What is the state of the art for typography and type? 
+
+On one level, professional levtterform design, including lettering, is wonderful. Our raft, if i may use such a word, is never before better technically informed, young designers have os many techniques to design type, to learn both tech and craft, to see them as complimenting each other and a very wide knowledge of all that came before, no more modernist laws of what is allowed and what is not, and all feeds in to all today. 
+
+Technically we have new cultural connections, a global view of type production, we can make a single font with many writing systems, working cross platforms, and more apps automate many stpe.s 
+
+For this who are curious there is a toolkit that has no precedent. 
+
+AS type guess better and better, the design of letterforms has no use, there is more and more bullshit. 
+
+“Never been better”? “Too much rubsbish”??
+
+The Shallows by N Carr, say that the net makes us more superficial. Googleitius and wickets, replacing books and memory by quick searches. Young people count their likes on bechance to measure their success. 
+
+Not he web if something doesn’t suck then it is awesome. 
+
+The teaching! The type teachers should be more like music; you should already play music well, hearing well, even pitch, and understand music and history before you can study. You do not have to show these skills to be a teacher of type. 
+
+It surprises me how much you want to know about the history to be a professor of an art university. 
+
+I have a degree in something else though ;)
+
+As a sconsultant for myself,ts i see how the stream of rubbish is made, and the attitude of people who offer this stuff. The people who are humble often have talent, and the arrogant ones are often hopeless. 
+
+When I began with my fonts 8 years ago, I was suppressed that there was no quality thinking at all. It was idealism and commercial thinking. They started in 2000 to offer a lot of fonts very fast. They also thought about being an open level playing field for type designers, and that is due to the fact that my fonts was bitstream; no one had much understanding of type design, they were engineers and organizers. They wanted to make shopping for fonts easier. In the 90s you needed to know the names, the designers, to buy from, and the bitstream guys wanted a festive font, and not aknow anything to find something nice. They wanted equal opportunities to make and publish type, to just go for it. Myffonts did do something positive there, to help young designers find an audience immediately with their own foundry. They were the amazon.com of type, and not be neutral. No one thinkks that amazon is bad if they have mediocre books, but my fonts was seen as needing to have gatekeeping responsbiliities. 
+
+The open gate policy was a good thing? “A fantastic game changer” 
+
+I joined in 2007 and saw how more and more people came to my fonts. Nick Sherman made a statement that the stupidty was gone, and the clueless hobbyists kept coming, so i amnd more in the team pushed for quality control. it took years to turn things around, and in 2012 I started a foundry review process. Tyrol, in California, and Dan Reynold and Florian Hardwig, part time. We accepted only stuff that is good and useful, and to give feedback to those who need improvement. 
+
+3 years since we stared .we have 1100 applications. 1 per day. we look at each font submitted, and we approved 25%. 
+
+Werejected 65% and the remaining 200 foundries are still working or agave up. Here is an example of the to do list. 
+
+We need to tell more foundries that their fonts could be removed. 
+
+We need to tell them how to do it. 
+
+We see the beginners have he same mistakes and we write the same thing citing the same resources. There are not enough good books for beginners - no english language book that does this. I mentioned to spanish people the Como Crear Tipos, and essays and tools by KLTF and Twardoch and ILoveTypography all in once place. We propose to published a series of guides to foundries. 
+
+Who should provide guidance to beginner designers? Not a bad idea for my fonts. This should be released over this weekend. 
+
+I worked with an illustrator, Beatrice Davis in Berlin, and I will published a series of guides for foundries. One on naming, originality, and so that will be a series to develop over the next year. 
+
+Some type designers are negative on monotype, I am not an outsider or an employee. But I can say that there are good things of being in a larger company. yFonts was limited when we were at bitstream. Now we can sponsor more events, the foundry guides, and hire the best people we think of to help us out. We help typographic culture, not on monotype’s corporate conditions but our own. 
+
+So, the culture of type. This is a lecture that could be an hour. I have tried to do good. There is a downside too, coordinating the review team, I have no time for writing articles, and its the most boring work I ever did. 
+
+I want to make more spiritually rewarding work. I a not a black and white thinking person, and Type culture is broad for me; sjhapring text, origin content, spreading the word, politics, economcis, and it can influence those things. 
+
+To foster change can help these things, and type culture is something important. 
+
+I think we should remember graphic design was invented by artists to foster change, and some stop being artist and become propaganda designers. 
+
+This is something I made, TRUE and FALSE rotational ambigram.
+
+This is a russian artist, a publicist for the revolution, and later a copywriter. 
+
+The 20th c most interesting type design, Dwiggins, and this is the title cover of The Crew of the Ship “Earth” - similar to the bucky fuller thing - and this book reminds us that we sail on the ship and be a team, and the human race is not so good at this. 
+
+I think we should mobilize all design disciplines to politicians and changing concentrated power from short term concerns. Type is a small artifact in the world where we have total control of all details. I like to have the skills that I have to make ideas speak more clearly. 
+
+The one time I was able to do this, when I work fro FontShop Benelux, before Fontshop was acquired, Rudy was leading fontshpo in a more punk way, and with the “Druk” magazine i had a way to do this. Left is an issue about Cuba, with an illustration by Erik van Blokland, and I have tendencies for subversiveness. 
+
+Mentality is more important than prestige. I would refuse to work for an oil company, and I would prefer to work for a radical publisher than whatever. 
+
+Repeated was founded this summer, when my sister who lives in cornwall, joined a community of radical book publishers. 
+
+My friend Lorp drove down from Bristol, and said the same thing. 
+
+So repeater wanted me as their typesetter. I did their first 2 books, women and working britain, and also a book, about 220 pages in a single sentence, no paragraphs and no full stops in the whole book. They said it would easy, just 1 paragraph ;) 
+
+It became a challenge for the reader too. I ahem  MA in the theory of literature. This book didn’t have paragraphs or chapters. I read it, I realized I could take the most extreme words of each page, and place them where the chapter heads normally go in the header. I made samples, and the author said, This is what I wanted! I  twas a radical idea, and so when the author approved it, he reviewed all my choices. That was a great project, very interesting for me. 
+
+This is Vito, by Type Jockeys. The primary typeface is chaparral. 
+
+So for me type is part of a lrrger thing. You can enjoy that and admire it, and it is a tool that customers need to use without obvious mistake. The smugness of people who make mistakes. Here is a photo by lord of a typeface not working out of the box at a hotel signage. 
+
+This is an email from Thierry Blancpen, from a post office, using 4 typefaces in 1 email. 
+
+“Those stupid graphic designers” say type designers. (a) the type is too complex or (b) the software doesn’t work with the fonts. Some fonts are not made beyond 256 characters, I saw this in my airplane, the quote marks have the HTML entity in the txt! on the airplane! 
+
+So, why don’t type designers design the new Google logo? 
+
+Petr said “Design is making it difficult for people to do it wrong.”
+
+Henrique says what it is to design type to every day people. One of the parts where we fail is one wikipedia You can detest it, but you can improve it. Why do us not contribute to the type design pages. They have a project typography, none of us participate. This is stupid. 
+
+What is business to type design ? “Type **IS** business, isn’t it?” J B Levee was right the other day that business basics are essential to the craft. 
+
+We have a guide to pricing type. This is very emotional and it is that as much as an economic factor. That low prices degrade their owkr. But the economic reality, compassion comes with the trade, and you numbest find an audience and convince to buy yours not the others. Higher prices doesn’t mea higher income. Lower prices reach new vocational font buyers. Font prices are about choosing your niche in the market. You can pick clients with a high price, or sell to the masses with low prices until they say instead of $30 a font? Crazy? Or, wow a whole family, yes, that is nice. So I don’t tell you how cheap to go. 
+
+Are there ever too many typefaces? Frutiger said is there enough wine? yt Yes, I think there is. We see fonts that look like others, and we can not refuse them all, we are just a shop, not a chop.
+
+So we need to be reasonable, and the bottom is already here. The font s that cost nothing get better and better. We should explain that it takes special skills to make type that is bulletproof. 
+
+And things go wrong in some companies. [ The video of Adobe MAX last week showing Project Faces “I often have a problem choosing a font, and I put some placeholder get in u=illustraotrr, and then i look at fonts on my system and some projects you want something custom. we take existing text, outline it and drag around bezier points. But first that is time consuming, and changes to 1 letter, its hard to apply that to the other letters. So lets jump to the iPad, an app we prototype. instead of an outline, we have a skeleton or the center line, and here I have the P, we see the skeleton line. We derive two points from either side for the thickness. we can change the skeleton without the curves. We have a skeleton font, and with sliders, we can create any thickness we want, adjust the width, for condensed or extended, we can select a set of fonts with the crossbar, and this is cool, its moonlight, and important in typography is the contrast, the thick and think parts. if we adjust the contrast, we can see a more classic style font. If i jump to the A you can see that working. We can slant for an italic version. this is missing serifs, so we have them we need to slide them out. We can control the curvature, and I will back out here and talk about effects. We also want to apply interesting effects, to create a thin center line, we can make it wider and adjust the offset, to make cool styles. We can also deform the path, like this jitter, will create a stroke that will look hand drawn. So, back to my first problem, I type in my title of the poster, I increase the width, the weight, the curvature, and then I can apply a stencil effect to it. when i ram ready to export, you can export it as a vector or as a full font with all the changes. I exported this, I called it Max Font, and you see this actual font file from the iPad in illustrator. ]
+
+So, I am glad you enjoyed that torture. So adobe will replace type designers with an app, that is today’s news. Thank you very much. 
+
+* * * 
+
