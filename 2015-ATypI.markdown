@@ -1059,3 +1059,193 @@ LK: I want to think the Creative Industryies Fund NL, to make the Bala family, a
 KS: I have a special announcement. The last 5 years I worked with Peter Bilak on arabic types, and a few hours ago we launched the website for Typoteque Arabic. This foundry is intended to make new type for the arabic script, to start a platform for arabic designers. 
 
 * * * 
+
+
+
+
+Kevin Larsen
+--------------
+
+[ 10 mins late ]
+
+1 black and white pair is 1 cycle. 
+
+Here is a 250 dpi monitor graphed by low to high contrast on the y axis and spatial frequency from low to high on the x axis. 
+
+Here is 300 DPI. We care about the gaps between 1 and 2 pixels, its important for legibility of CJK, but applies to Latin as well. 
+
+Here is lowercase /i, a single line and dot. At 96 DPI, we can all agree this is an i. But maybe not the Candara i. It looks like all other i at that DPI. At higher and higher rez, we see more of the curves. At 192 DPI you see a 2 pixel stem width, and at 300 dpi, a 3 pixel stem width. From 400 to 500 spin we see the shading along the edge to make a subtle curve in a more refined way. 
+
+Questions?
+
+Pedro Amado: Mobile displays? You try to render 34 cycles per degree (?) but couldn’t a lighter weight help?
+
+A: Would you be happy in your latin fonts if you were told you could only use 1 weight, ever? :) Hinting is a way to push lines around to make things work with what we have. The question is, was that beyond human perception? And the answers no. 
+
+Okay lets make this perfectly dark as we can. Now your eyes adept o the black. 
+
+Ideally we wait 5 mins, but we will jumped ahead on this. If we waited then this circle would appear very white to you. It might seem little grey now. 
+
+I will not change the try circle at a ll, but make a white circle around it. I just add white, but your perception changes. 
+
+Now, I put an even whiter circle and the colors are not changing at all. I just add another circle. So soothing you saw as white, you now see as grey. 
+
+And now I put ANOTHER circle. 
+
+And another one! You guys are experts, you should recognize white right! A
+
+And another. That is six rings, now seven rings. So my point si that contrast is not an absolute in the world, its all relative. We look at he blackest thing in the encironment and the most white. It is variale=on your eyesight and the environment. 
+
+So, another question, this is the chart I showed earlier, of low to high spatial frequencies and contrast. The lines do go all the way to the top, your perception ill NOT go all the way to the top. We will see contrast at some spatial frequency than others. 
+
+The front of the room says the lines are highest more to the right, and the back of the room says more to the left. We see things 3 to 4 cycle per degree, and as we go higher contrast we need to change. 
+
+Here is an “E” in the image. …
+
+If you have a high quality monitor and a screen without reflections, that will give you better contrast. the phone screen in sunlight, the white on the screen needs to be as white as he sunlight, and your screen can not do that today. and its age related, as we get older, less light gets through our eyes. At 20, full, at 40 about 50% and at 60 years old about 40% of the light gets through the eyes. 
+
+So high spatial frequecny and low contrast can go beyond our ability to perceive it.
+
+Here is a fun one, this is the same image, with einstein in high sharp lines, and the blurry areas are low spatial frequency so we don’t pay attention to them, but smaller, we see only those that make out the image of marlin monroe. 
+
+Here is letters in the same way, F is seen when the image is big and D is seen when small and the E in the middle. 
+
+Take aways!
+
+You all were right and jobs was wrong :) We need CONTINUOUS options from 0-50 cycle per degree for perfect resolution. 
+
+Contrast is an important as resolution, and for designers here, if you want something to be high contrast to see it, we want larger sizes and more contrast so people can see it - a high quality computer in a dark room will give you high contrast but a mobile screen outside will be lower contrast. 
+
+High contrast is critical to good legibility.
+
+Thomas Phinney: I keep on seeing advice in places that black no white is _bad_, and not as legible. Are there situations or subgroups like dyslexics where max contrast is bad advice, or is it a urban myth? 
+
+A: Cataracts have distortions and white on black can help you there. Its no lowering contrast. You get discomfort problems if the light is more than 3x the brightness of the environments; here in this dark room your laptop set to max will be 20x and that can give you discomfort. You always want high contrast as i define it. 
+
+TP: So designers should use high contrast and the user shouldd turn down their screen if needed?
+
+A: Yes. 
+
+Q: You showed us a slide with various /i renderings. The form of the pixel is square. The light beam is round. 
+
+A: On an LCD screen, a white pixel is 3 rectangular stripes of RGB, but in CRT they were round. Trixels are other shapes; in VGA screens in the 80s they were also not square. The last 20 years, they have mostly been square. 
+
+* * * 
+
+Ann Bessemans
+--------------
+
+Here I will define reading comfort, how to measure it, and arthymic types seem better for some people. 
+
+Last year at ATYPI I presented my research into rhythm. it is considered and repetitive, a game of black and white. I look at latin, the vertical strokes like in the word minimum. 
+
+Vertical letter strokes are alternated with the white shapes inside and outside the letters, making a strip pattern. For a white paragraph of text, I made a curved line to how the frequency of rhythm. And also a font with the top and bottom removed to leave only the stems. 
+
+Reading comfort is not well defined. Its an ambiguous term, to which all different type people will give different readers, with a common sense core, that reading should be comfortable. 
+
+Unger says it is making reading pleasant, and never a tiring activity. Squinting can play an important role in fatigue. Blink rate is thus linked to visual fatigue, disocvered by Luckiesh in the late 1930s. He put all causes of strain to 1 thing, though; not just pupil dilation but also mental activity. Eye trackers can not measure reading discomfort. Frowning can also reveal discomfort, and a web cam can record this. 
+
+EMG of the under eye cheek muscle and eye brow, is accurate, but in contradiction with comfort. 
+
+MS Reading Tech group is seeking a method to measure comfort without effecting reading performance, nothing found that really works yet. 
+
+Walter Tracey in Letterrs of Credit says reading comfort and visual comfort can be easily connected, but not the same. 
+
+Understanding visual comfort can come first, though. There is strong evidence that there is the rhythm of a typeface and in past year’s presenation i showed that slanting letters will reduce the verticality and making reading more comfortable.
+
+Here is Meta Serif from 2007. The 21st century model uses equal letter widths, but this was not true before 1700. Then, the letters were very different. This means the rhythm is more irregular than that of type made popular today. Type with vertical contrast also became popular. Here is a Fleishman. 
+
+To the end of the period, the 1800 - 1900 period, the letters became more condensed; the vertical contrast meant that reading comfort was impacted. 
+
+after 1900, reacting to the complaints of the 19th C, letters got a slant, but the equal letter widths was maintained. 
+
+In visual perception studies, you view some patterns, 
+
+spatial frequecy, width of stripe and spacing, size pattern, and contrast. visual discomfort is from unpleasant artifacts from grid or patterned lines that are illusions. this can happen with the patterns of marks found in text for reading. 
+
+Young readers benefit from a font that is not set too small. 
+
+Here is a para where the letters are printed twice, just a few mm apart on the x axis. 
+
+WHat bad effects can be? Illusions, eye strain, headaches, and even epilepsic seizures. Risk groups can be those who suffer from migraine, eye strain, visual stressed, and beginner and poor readers. 
+
+Moving the head towards the page can indicate discomfort, since it will reduce the lines seen in your core vision. More line height can also help. 
+
+I like quizzing readers, a questionnaire about events that indicate visual discomfort. all the questions were answered on a 3 point, never sometimes always. 
+
+Take aways. 
+
+I made a definition: Reading Comfort is the physiologically related and subjective information …
+
+2nd, …
+
+3rd, I would like to emphasize that rhythm should be more considered. people with good vision are fine with a more regular rhythm type design. but several groups at risk of visual discomfort will benefit form type with more arthymic design. 
+
+I hope to relate legibility, comfort, spatial freeuency usage, and rhythm (stripe patterns.) 
+
+I hope this will help type designers to improve their text types. 
+
+To be continued! Thank you. 
+
+Pedro Amado: Legibility has so many parameters. can a mask effect, dividing the information in to small chunks, can be related?
+
+A: Yes, what Wilkins did is to study some typefaces. he looked at a condensed type and saw that as the type become more condensed, people move their head towards the pager. as kevin say, the one at the back see more lines than the ones at the front. so that makes reading more comfortable. 
+
+* * * 
+
+Homages
+--------------
+
+Petra Weiss: Bernado, a brasilia typographer, passed; he was a member of the Just In Type team. ????, the Argentine type designer, of Belen, who worked with Dario, also passed. 
+
+Erich Alb (typographer, publisher, Switzerland): There are 1,000s of images of Frutiger’s work. He passed this year, best known for Univers, and his book “signs and symbols, their design and meaning.” Please don’t photograph this deck. Form and counterform, he said that counters make the beauty in a typeface. This Esset was cut with sissors. 
+
+After a hard days work on concentrated type design, he drew freeform art, again form and counterform. Here is a wood cut art piece. Here is this ‘life cycle’ triptych. Birth, motherhood and tenderness. He did sculpture work, it was his teenage dream. After visiting Lankuzi (?) and seeing his perfect forms, the dream was gone. Then on, he worked on type design only ;)
+
+Here is type history cut into wood plates, as a final piece at the school of art in zurich where he graduated summa cum lord (?) 
+
+Here is the school work he did in Zutich in 1950. A sans serif that looked lie Univers already. In paris 3 years later he started the big project. Here is the lumitype in the 1950s, looking like a control center of a space ship. 
+
+Since a teenager he collected signs and symbols, and his book was translated worldwide. I bought a copy for $29, and now on ABook it was $10,400. 
+
+OCR-A was not allowed in europe. After 6 years of designing, solving problems, he came up with OCR-B. I said, when a designer strays too far from the base form, you get frustration and illegibility. The figures are higher than cap height, this was a smart problem solution by Adrian. Here is B and 8 overlaid; you see the difference. You see here in my passport that they are higher. OCR-B is used for all passports; its a world standard for bank drafts too. 
+
+For the IBM typewriter, adrian designed the univers type. here is the musee paris logo.  Here is there arrow for Charles de Gaulle airport in Paris. Based on the square. Here is the Frutiger typeface, made for the CdG signage in 1976. 
+
+here is a 200 meter long wall with symbols by him. Here is paris Metro signage. Here is his Univers Devanagari beta. He was helped with Mahendra Patel. Swiss Post used his Frutiger type. Adrian also designed the type for the post busses, in 3 languages. 
+
+JB Levee: Jean ? studied calligraphy. 73-85 Jean worked in paris, and from 95 he taught calligraphy outside france, and spencerian style and this won him a lot of fame. he made many workshops and some great t shirts. … he was a maverick, with 2 periods. first the type, and then the calligraphy. he made designs that were very different to what he is famous for. fascinated with the designs of the 70s, he loved optical art. he published a few books on optical patterns. 
+
+Gerry: Richard SOuthall, a schoolmate of M Carter, and was from a elevated part of society. No reason for him to go to typography, he was destined for some job with the state we would not hear much of. He took over from M Carter a printer job when photo type was becoming a thing. This is a photo of him at the Automatic Type Design conference in Nancy, his last public appearance. His bio is a who’s who and what’s what of what was most interesting in type design when he was working. In the 80s, drum scanners would be the person who wrote the software that drove them. He was involved with lumitype, aiding the transition to the new domain of computer software based type. He had an uneasyy job description as he explained for other communities how they worked. His book “printers type in the 20th century” is a standard for any type curriculum, and its not too expensive yet ;) He recently wrote a chapter for the History of the Monotype Corporation. He made a paper about the Colorado typeface, made for a US telephone directory. Long before that, encoding letters were discussed a lot. Mandel designd curves, they made pixels, image setter dots really, dots of ink on a specific press, and then made systems to describe those forms. designing what the rendering engine will produce and work back to a digital encoding has a long tradition. they interrogated typeface in a way typeface designers normally do intuitively. here are graphs of the counters changing as the sizes are increasing. Peter Karow did similar things, and they were important and relevant to our practice today. Sadly his work seems t appear in boring publisations, that are not accessible. Not in public libraries, not well indexed on the web. “Designing a new type, the designer is concered first with that appearance of character images, and only secondarily with the shape of the object that gives rise to them.” This quote is hard to find. Richard tried to formalise the system of writing about these things. So his texts are essential to discussion about type as a discipline of knowledge. 
+
+Sumner Stone: Herman Zapf needs no introduction. He passed recently. He inclufenced a huge number of people. Including me. You can see what I wrote on my blog about him and my experience with him. I want to say more today. Thanks for Julian Waters for these images, a very big fan of his, who is good about collecting images and taking them when he visited. 
+
+I can’t talk about him without his wife Gudwin, who is alive at 98 years old today. She did type design too and Herman would say he married the competition; I know of no other couple where both are notable type designers. perhaps only recently; they were formidable, the two of them. I love this image of them together. Diatom Classic is one of her types. There are a few type designs like his, ornamented type that they designed, one Saffir, and Samarg (?) which bounced ideas off each other. She is an accomplished binder and we put on an even in SF called Zapfest, and here’s the logotype I designed for this event. For both of them. 
+
+The way I met him was by a film, now online, and at the start there’s a blackboard which he draws on with chalk. I saw this with my teacher, and i went to kansas city for 2 years to study because of it. He was visiting there, spending time with us idivudually, showing us his special technique and tricks. he did this one morning, for some product. he wished to preserve and enhance the quality of the hand in his lettering and type design. this is 1/4 of the size of the finished poster that was 24 x 36. he picked up an edge pen, it took him 20 minutes, and then he took it downstairs to hallmark, blew it up to this size, and silk screened it. I snatched one and still have it. 
+
+he did various work for hallmark, including designing type for them seen in a book by rick kusik (?)  “what type design needs today”. here is examples of the work he did for hallmark. 
+
+This is his signature! ;) [ an A to Z in swash caps that create a circle ]
+
+Rosenberger was the punch cutter at Stempel he worked with, and here is some of the work that he cut. 
+
+He did MANY typefaces, and something missing from my blog is that he said over and over, that we should not just copy the lpast, we should make type for today. that was a theme for what he said all the time, in books and lectures. he sawys this and you look at his work, his work is classical. and yet, you coan not know that when you see his work that he did it. 
+
+he had a personality coming through and it was always an incremental modification of classical forms. one of the typefaces that i think when it first appeared was astounding to the type community was optima. this was a step outside the kind of things that herman did outside that time. in the 60s and 70s, people would ask me what i thought of it! he was no t very forthcoming about where it came from, early on. when i worked within in the early 70s, i have the feeling that it was a favorite of mine, and one of his. he used it a lot when he did typography. his book of alphabets is set in it. these are sketches of it. 
+
+he went to italy after WW2, and that is where he saw the letters, in florence. in florence, there is an article by paul stiff out these images. Now we see it. Herman drew these letter sketches while he was looking at this, on italian bank notes that were worthless. Here are images of them.  
+
+this is a medal he designed with optima like letters, knocked out with a pencil. after his initial fame from palatino and optima and also mealier which is not survived as well but was a hit at the time. after that, he branched out after type design and calligraphy. teaching at RIT was a big ting, he got a special position and influenced many people. fro m around the world, who went to those classes, including julian waters and gerry keller. (?) 
+
+He wrote a manual for rooting, a beautiful thing. he worked with URW and ade his first 19th century sans serif. 
+
+He did a number of projects with URW, including a way to deal with hyphenation and justification to make optimal results. he saw himself as a frustrated engineer. if he was in a richer family, he would have become a person involved in science and engineering, and he thought digital age was great and popped right into tit. 
+
+in the semi retirement period, he did some art pieces, using graphite technique, with wax and scratching. 
+
+Here is fontographer, looking at his own designs again, for PS digitization. he worked with another collaborating, akira at linotype, he was in his 80s and going each day tow work. that maybe kept him alive longer, and i concluded that i am not retiring. Palatino sans! 
+
+To leave you with a thought: “Certainly the art of writing is the most miraculous of all things man has devised.”
+
+* * * 
