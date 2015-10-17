@@ -1383,3 +1383,138 @@ So, I am glad you enjoyed that torture. So adobe will replace type designers wit
 
 * * * 
 
+History of Adobe Type Team, Miguel Sousa
+------------------------------------------
+
+I work with Adobe in the Typekit team, I write tools, development  and sometimes I do type design. 
+
+My Brasilian friends, call me Miguéu, its not correct ;) Its my first time in Brasil... last year I had 2 tickets for the World Cup but this little guy came into our lives so I was not here. Yesterday I walked aorund the city and I found it so nice to be in a foreign country with everything in my mother tounge. Last night I got this dessert, a full size Calzone with banana and chocolate - a candy store on a plate! 
+
+So, down to business. There are 2 people in the room on the front row who know more than I do, as they lived type at Adobe. I refer to Sumner Stone, the former director of typography, THomas Phinney, the former product manager for Adobe Typography, and David Lemon, teh current senior manager for type development. 
+
+Adbe has more than 30 years of experience in software development, and in the recent times succeeded to enter digital services. This company is a font technology and design powerhouse since the beginnin. Lets take a journey form the start of DTP to today's rise of open source fonts. 
+
+Chapter 1: The beginnings. Adobe was founded by Charles "Chuck" Gescke, and John Warnokc, who met at Xerox PARC in the mid70s. While there, Warnock had the idae for a page description language. They tried to convince Xerox to use it in their products, and after 2years failing at that started Adobe in 1982. They started with an idea for high end software and hardware for printing, using John's software for connecting them. Here's images of other such integrated systems of the time. 
+
+A PDL can describe a page, images with X and Y dimensions, a text block with Times at 12pt, and so on. 
+
+As Adobe was working on its PostSCript system, they were approved by Steve Jobs. He was developing the Mac and a laser printer for offices. He tells them that he has the hardware and needs the software solution; they adobe guys know it would fit the bill. At first they declined, they wanted to sell the full system, and the printer was a low res 300 dpi unit. But later they agreed, and ni Jan 1985, the laser writer is announced. The mac and laser writer were part of apple's vision that was different to IBM's that dominanted. But apple would see the huge revolution happen: DTP. 
+
+Mac came with a word processor and drawing app, MacWrite and MacPaint. But to do more complex layout on the same page you were out of luck - unless you know how to write PS code by hand, and send that to the laser printer. that would work, but designers could not do that. 
+
+SO when Aldus PageMaker in 1985, that changed things radically. a GUI simmilar to what we use today, and supported the PS language. People could creat their own documents and prnit them. 
+
+The Mac compuater, the Laser writer, the pagemakrer app, and the ps langauage, were the things that sparked the desktop publishing reolvution. And one more element that was crucial to the sucess of DTP, and that is scalable fonts. 
+
+The tehings on this page were all made by companes with A in the first name, Applle, Adobe, and Aldus. 
+
+So, a WYSIYWG toolchatin was not so bad. It is a big deal that office ocmpauters looked like this, office printers were lineprinters like this, and toosl for copmositng pages were compass and rules. You gridded a layout by hand, specifying type and its sizes; this was sent to a typesetter who made mocks to cut and paste into the layouts. So DTP was really cool. 
+
+AS I mentioend, PS was what got adobe started; PS was responsible for the type development efforts. PS was developed and others tried to solve the problem. A device indepdnetn graphics system, a single languega for computers and printers, handling text and graphics, and resolution indepentet, from a 300 spi lasrer to a 1,200 offset printer. 
+
+PS was special for its scalable fonts, not just bitmaps. Before PS all fonts were bitmaps of a fixed size - here are the mac system fonts. PS chagnd this, and these fonts lived in teh memoey ro fhte printer. the could scale to any size and be output at the max size of the device. Here is a smaller and a larger S. Adobe launched with 13 fonts, which included the basic collection of designers - helvetica sans, times serif, courier mono, and a symbols font. They licensed them from a 3rd party and courier and symbol were designed in house. As a new comer to a industry that traditioanlly copied and cloned each other, they wanted to send the message they cared about type, by licienging the fonts from the rightful owner. They etablsihed a taskforce in the comapny that led to the type deveopment team. 
+
+That team is still alive today, proving that type is a timeless need and that adobe cars about it. 
+
+To help set up PS as a standard, more digitla fonts were needed. the fast way was to license existing designs. they wanted to use typefaces owned by other type companies. they licensed from ITC new collections to convert to PS, AGFA, Compugraphic, MOnotype, and others followed. 
+
+Sumner Stone was hired in 1984 to engage with 3rd party foundries to create the collection and make new designs; he starts the first adobe type originaly, Stone SAns, Serif and Informal. The first PS superfamily. Apple's 2nd printer, LasterWriter+, had more linotype licensed designs, and also ITC. That was 22 new font files, 35 total. They were all developed at ADobe by the type team. Realising teh commercial pontential, they release the Adobe Type lIbrary in 1986, with more than 100 fonts, all Linotype and iTC designs except one. Sonata, by ? Huggins at Adobe. 
+
+WIth this release, type was Adobe's first shrink wrapped prodout, a year ahead of Illustraotr 88. Sumner hired Robert Slimbach with whom he worked at Autologic, and like Stone, he wanted to work on original designs, and starts a Garamond revivial first, and then Utopia. The first ADobe Originals collection. 
+
+In 1988, Carol Twombly joined the adobe type team. her first typefaces were trajan, polipihious, and released in 1989. Around teh same time other team members concerted wood type to the new medium, and th 1989 collection had these fonts. Reviving the art of fine typography, to surpass teh old, was starting to be real. Here is Jim Wasco, Fred Brady, Robert and Carol. 
+
+As DTP took off, so did the originals program. The new digitla types stretched the boundry of type sophistacation and scope. they wanted top quality type and adobe was the perfect home for this. the adobe originals collection grew, and in 1990 the 2nd wood type was released, by barbara lind, joy raddick, under fred brady and carols' supervisoin. 
+
+Another revivla, adobe caslon, by carol twombly. Minion by Robert Slimbacj, that is now earned a place on the list of workhourse classics. To supplement the inhouse type designers, Adobe commisioned outside designers, and Tekton was the first. Then the Wild Type collectoin in 1993, a failed attempt to broaden the library style. 
+
+Here's a samepl of them, Exponto, Mess by Michal Harvey, and Jimbo by Jim Parkinson. 
+
+More recent families, are Garamond Premiere, the 2nd garamond. Tis is more authentic, with all the optical sizes cut by Granjon. Arbo, also by Slimbach. Hypatia Sans by Thomas Phinney. Adobe Text by Robert. Trajan Sans, by Robert. Also noteworth is ADobe Clean, the new ADobe corp brand type that are exclusive to Adobe. 
+
+A few lesser known fonts are handwriting fonts, for Acrobat's signing feature. 
+
+Next, Ground Breaking Technology. This ability came with a big challenge. THis was what fonts were like on screen; bitmaps were poorly displayed. You could design and compose the page but what you see and what you got were different. To solve this, Adobe made Display PostSCript, so fonts were 'printed' to the screen so the fidelity was closer. As Adobae licensed PS to apple, they approached apple to licensed display postscript. But they declined; Jobs was no longer at Apple and the current management did not want to do it. They were unhappy with the licenseing fees they paid to Adobe for PS already. 
+
+MS had become a big player in this peroid with MSDOS. Apple and MS were so eager to avboid adobe, they started developing an alternative to PS and the Adobe secret format. The news broke at Seybold in 1989, when MS annoucned to cross license their PS, Apple made TrueType and MS made TruePage. Warnock was furious, and he wasn't afraid to show it. [ great image of Warnock as a jedi ]
+
+He saw these companies teaming up to destroy his company; 65% revenue was PS licensing, 10% fonts, and 25% applications. So clearly the future of the company was at stake. he didnt't take teh rumours that precedd the conference lightly, and he announced a new type rendering ror screns, ATM, and the public release of the Type 1 speification. ATM was released a full year before the first TT fonts in MacOS 7. This meant type on screen was not heavily jagged. 
+
+PUblishing the type1 spec, adobe was no lnger a gatekeeper for fonts that rendered well on screen. There were 2 font formats, type 1 with hinting that was closed, and type 3 that was open but without hinting. In 1992, adobe introduced Multiple Masters. This meant you could have all the weights, widths and styles. You could have ATM and Myriad was the first fmily to take advantage of this; this allowed for optical sizing too. Small sizes have surtdy features while large sizes have refined features. Here is Arno Caption, with less contras, and Arno Display, meant for larger sizes. 
+
+The MM technology didn't lsat long as a consumer product. The tech survived as a type development tool, thugh. In 1996, ADobe and MS parterned on OpenType to end the font wars. This had many advantages over Type1. The fonts are cross platform, the small caps and ligatures are included in a single file instead of separate fonts. And the format enables correct shaping of complex scripts like Arbaic and Indic. 
+
+Which brings us to Non Latin Type. Minion Cyrillic was the first, and it was Robert's idea. He saw that it would be the most useful thing he could do as a type designer at an intnertioanl corparion. There was very little information on this, and so we commisioned a report from Thomas Milo at DecoType. We focused o nthe main east asian languages, CJK. PS was again the main driver of this effort as Adobe negotatied with the printer manufacteroers. ADobe sought licensing with Morisawa for conversion of its font collection to PS. 
+
+Kuzoko Mincho, released in 1997. Minion in 2000 was released in OpenType, with the Cyrillic glyphs along with the Latin, and this was also the first to include Greek. Lithos also got Greek support in 2000. The latin, design is based on inscpirational greek. Carol had drawn much of the greek in 1989 alongside the Latin. Myriad greek by Carol and cyrillic by Fred. WArnock, released in 2000, was teh first with LGC develpoped together. 
+
+Adobe ARabic  and Hebrew in 2006 were our first middle eastern designs; at the time we outsourced these from Tiro Typeworks. Tim Holloway did Arabic and John Hudson the hebrew. Thai and Develanagi also by Tiro, Thai by Tim and Devanagari with Fiona. The deva was released in 2012 when it wass upported in adobe apps. Kazuraki was a new vertical japanese font with a brush style, and this twas technolgiclaly challenging, pushing hte limits of vertical typesetting. 
+
+In 2009 the AFDKO was released with arabic support and we could do complex script development in house. Myriad arabic and Myriad hebrew was done in house, design by Robert Slimbach and the production was done by myself and Paul Hunt. Other complex scripts were made ffor other indic scripts. Adobe Gurmkhi in 2012, Vaibhav andPUal, and also Adobe Gujuari by David Breina, and Adobe Tamil, by Fernando Mello. Neelakash did Adobe Bengali, released last year. There are more indian typefaces in the pipeline. 
+
+Then, open source effort. being a tradioital software copmanu, adobe didnt catch on to open source until recently. August 2012, we released Source Sans, our first open source family. It was adopted by many companies for branding and online. Its broad lanague, greka nd cylic, and high quality, set it apart from other open source prpojects. Later in 2012, we release Source Code Pro; the reaction was even bigger. We were blown away by how often it was downloaded. Source Sans and Code were designed by Paul Hunt. But they are incomplete without a Serif design. Frank G made this in house. This has the same weight range, but only supports Latin. An Italic style is in the works. 
+
+Source Han Sans, is a pan CJK family, a passive project that is not possible without a partnership with Google and 3 asian foundries. The family is made up of many weights and each font has more than 65k glyphs. It support CCJK in a signle file, the first pan CJK family ever, and the glyph count is at the limit of the font format. Here is a glyph chart of all 65k glyphs. 
+
+WE also open sourced type tools and tehcnologies. In May 2013 we annouced the Adobe Glash rasteriser was contributed to freetype, that program that converts glyphs outlines to the screen. it was an adobe crown jewel, it was a big deal to annoucne this for adobe and the many comanies that use freetype. in september 2014, we released the afdko on github. we git a lit of support and sometimes contributions from 3rd party developers which is great. If you want to get the toosl and fonts, go to github. 
+
+What's netx?
+
+Te font industry changed a lot in the last 30 years, adobe led the way and continues to be a front runner with font design and tech. the copmanyfocus n revenue has changed a lot, and type has remained a core copmonent. the acuiqison of typekit in 2011 brought in the expertise for serving web fonts to the web and mobiles devices, and typekit is the backbone of a smilar sevice that delivers fonts to your destop. 
+
+I donte xpect much change, tehre will be more commercial and open source fonts, more type tools, and more type technology from adobe. we know that the only way to stay in business and remain relevant. type is our passoin. 
+
+Roger Black: Source Sans Han, can you email it?
+
+Miguel Sousa: It was several megabutes. Mac OS allows to select a file and preview it, and it crashed the Finder. 
+
+Raph Levien: Source Hans Sans is 15Mb per weight, and 7 weights. 
+
+MS: It covers everything. 
+
+John Berry: Thanks for making adobe's development seem planned and coherent from start to end. MM didn't last because service bureuas had toruble with it. It was a de facto resistance. Also Adobe itself shot itself in the foot, despite the fonts teams efforts, the app develoeprs were not co-operating and no-one took the approach that you needed a high end tool, it should be a no rbainer. 
+
+MS: Right. Illustrator had a little panel to specify new instnces in the app, InDesign still supports the fonts if they are installed, but not much more than that. 
+
+John Berry: peple thought you either wanted expert control or simplificy for the masses. 
+
+MS: ALso MM fonts werre hard to market. Its easier to say here's a family with 40 files, or 1 single file, the same money. Selling that was hard. And technology problems that you mention. 
+
+Bruno Maag: Is han certified for mainland china? 
+
+MS: Its not certified yet but is in process. 
+
+BM: If its 15Mb, how to serve for the web. 
+
+MS: We already do this. 
+
+David Lemon: As I mentioed on wednesday, we use subsetting and on the fly augmentionat, so its totally managbale. 
+
+BM: What about any old corporate who wants to not use Typekit?
+
+MS: They have to. Well, its open source, so they can roll their own solution, but we have a working solution today. 
+
+DL: You must use subsetting and streaming. 
+
+MS: We analyse the page and only deliver what is needed. 
+
+DL: Monotype and Google offer subsetting solutions. 
+
+BM: Who wants to partner with Monotype?
+
+MS: Where are you going with this?
+
+BM: A corp doesnt want to go through awnyone, what can they do? 
+
+Stuart: There are multiple versions with differnet file sizes and subsets, so if you want just korean, you get just korean; there are maybe too many flavors. There is 1 giant OTC which works great as a mac desktop font that has everything. A korean font with WOFF is 2Mb. Both Source Sans Han and Noto versoins. 
+
+MS: Answered? Good. 
+
+Henrique: What about Project Faces?
+
+MS: I can't comment as I know as much as you do. We were as suprised as everyone else. It was a separate team, with their own ideas. We have mixed feelings. What they showed doesn't mean it will be released, it is a preview of what Adobe is exploring in house. We are now in contact with them and trying to understand their vision. 
+
+Sumner Stone: Its amazing to see as employee 25 from 1985, if you wrote a memo you wrote a PostSCript program to do that, and Warnock insisted on this, he taught you himself how to do it. 
+
+* * * 
+
