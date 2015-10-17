@@ -1518,3 +1518,242 @@ Sumner Stone: Its amazing to see as employee 25 from 1985, if you wrote a memo y
 
 * * * 
 
+
+
+Stephen Coles: State of the Mart
+------------------
+
+Catherine’s other keynote was great! A high bar for me :)
+
+Sao Paulo is a great city, so great to be feeling so welcome here, and great to see people here who design fonts for sale now or will soon? about 15%. Who has you own website where you sell these fonts? About half of those. 
+
+I don’t make fonts, I’m in awe of those who do, and I’m not much of a graphic designer. I use them when I can. I teach at Type Camp sometimes and do some day lectures, and I’m in awe of full time teachers too like Catherine and Indra. 
+
+I’m almost a journalist; I try to report on news in our industry and add my own comment, but I’m also not full time there. 
+
+What is left? I’m a consultant. What is that anywhere? Not a more generic term available. 
+
+Here’s a stock image photo of a yuppie, boring shirt and tie consultant ;) 
+
+I’m more like a Font Broker, like a wall street trader buying and selling fonts. 
+
+I connect designers with fonts, font sellers with font users. That really is me, type designers in 1 ear and type users in another year. 
+
+www.Typographica.org is one place we publish essays on the scene. In 2008 I published an article about options for “Taking your font to market: Foundry, Reseller or go Solo”.
+
+Tonight is an partial update of that - but check the full piece.
+
+I also work on www.fontsinuse.com and this has articles by Florian Hardwig, Indra, and others like Mark Simonson, and others who contribute to the site. I learned a lot about how type is chosen and used on FontInUse.com
+
+And I now run www.typedrawers.com where people chat about type in progress, politics, business and tools. I took it over last year in 2014, and we have a team of 7 moderators. 
+
+This along with a few years on the creative team at fontshop, 2004-2011, shaped my role as a font broker. 
+
+This is all about the western world; other regions and scripts need study but that is not my expertise; Toshi has promised he’ll do a talk on the Asian font market. 
+
+Toshi: I didn’t!! I remember you asked me 
+
+SC: And this is all biased towards indie families too. Monotype, Adobe, and Google have done big things, including sponsoring our conference, but theirs is not the perspective I take today. 
+
+What is an “Independent” foundry? 
+
+One thing could be that is is designer owner company. 
+
+Another could be that it isn’t dependent on a single external company for their livelihood, like a single big sales platform. 
+
+So there are 4 things: making type today, selling type today, and making and selling type in the future. 
+
+First definitions. You type designers will have to bear with me while I go over some definitions, as we should speak from the same language. 
+
+Buying and selling fonts means selling retail licenses. not work for hire. 
+
+A font maker is someone who draws letters, does font production, or holds font monopoly rights. 
+
+People don’t shop for fonts physically, although here’s a photo of someone in east berlin with physical carved letters in a shopping trolley ;)
+
+Font Buyers, and users, are graphic designers, ad agencies, web devs, device makers, startups, megacorps, church newsletters, and individuals. 
+
+Foundries! We know where that term originates, maybe its antiquated for metal shops, but i like having something for us that is specific; this means a company that makes fonts. It could be 2 or 3 people, a single person, or a dozen employees; and someimtes its a larger foundry with dozens of employees. Eg DaMa, Hoefler, FontFont, Monotype, URW. The people who are behind the company of the bigger foundries can be invisible, and for me the best make a point of showing off the designers behind their brand. 
+
+Retailers: A reseller, disturber, shop. Like my fonts, font.com, fontshop, font spring. 
+
+Small retailers: A boutique shop, like Village, Type Trust, and Font Stand. 
+
+And speciality retailers, like FontDeck and Web Type, who offer small collections for a specific purpose like web fonts. 
+
+Type Foundries Today! 
+
+We know what things are like but not really specifically until recently when Ruxandra Duru (who works designing book covers at Penguin Randomhouse) who attended ATYPI last year in Barcelona. 
+
+Her thesis project was a study of indy type foundries. She examined the western players, to see what it is like to make and sell fonts in 2011. What occupies their time, how often they collaborate, and how they distribute their fonts. 
+
+It was PDF that got some attention, and when I found it, I asked her to make it into a website. After a lot of hard work, with her and her web designer and a co editor, we published the report. 
+
+Its a 2013 update, a census and update on the indy foundry scene. Sadly she can’t be here today with her day job. the best I can do is play a little video of her now. 
+
+RD: I wish I could be there! I know its in good hands with Stephen Coles. I thank all those who contributed especially those of you here today. As of today its just a start and will grow in the future. Thanks again!
+
+SC: I wish she was here too :)
+
+Demo! 
+
+http://census.typographica.org 
+
+Currently its not responsive for phones, and it seems to think this projector’s resolution is so small that its a mobile :( 
+
+Census criteria: there are 3 sections in the report, how we got to this point, who the players were for the first years, in a great and short summary. Then a timeline with what all the key moments were, with new companies, new software launches to speed font production, and then the census part. 
+
+How to get a comprehensive set of how is in the font scene? There are over 1,000 foundries but some are no longer active and some may be controversial to call independent. 
+
+First, they retail typefaces. This includes graphic design studios like A2, and excludes people who do not charge a pay-per-copy retail license fee. This excludes larger foundries, not those owned by a large conglometerate or a business with other revenue; and active within the last 5 years and with a website showing their types for sale. 
+
+She checked Type Navigator, by Jan Middendorp, the most recent and thorough showcase of foundries in print. Typebase, was revised in 2012 and invited updates. 
+
+She also looked at a twitter list collection by Ivo G at FontShop. 
+
+Also the Indie Fonts series in the early 2000s, they were specimen books with a good documentation of the explosion of fonts in that period. 
+
+Those were her main sources for the 300 foundries in the census. 
+
+So, in 1980s, Elsner and Flake, Emigre, and others were started, but the total was 2x by 1992, a huge growth period. TT introduced, Ikarus on Mac was completed, and FontLab and Fontographer. A few foundries made grunge fonts but they are no longer active today so they are excluded. 
+
+In 2000s, font editors matured, and the number of sales platforms increased. Being a retailer became easier for small indies. 
+
+In the 2010s, there were even more. 
+
+The low number for 2013 is an outlier; the sources didn’t have the most up to date info. 
+
+Here is Linotype in 1919, the factory gives a sense of what it looked like then: a huge industrial operation with 1,000s of employees. 
+
+Here is DJR with his dog on a laptop in the sun; this is 1 of the dozen staff at Font Bureau, who are spread all over. 
+
+This is Victoria Rushton and others at the FB Office. 
+
+Here is Just Another Foundry with a husband-wife pair, working at home. 
+
+95% have less than 5 people. 
+
+5 foundries have more than 15 people. 
+
+Font production is not limited to specific parts of the world. 
+
+Africa, Middle East and Asia are excluded. 
+
+Most places with many are traditional places for print and design. 
+
+Zooming into south america, in 2013, we see the spread across the continent. 
+
+Henrique Nardi will help me with the Brasilian map 
+
+HN: I promised! ;)
+
+And what we need for the next update is where the locations are across South America. Just 10 years ago it was much more barren. 
+
+We love interactive sliders, so we hope that in future you can combine the date and map over the years. 
+
+Font editors have got a lot better. Font production is faster, Fontlab, Glyphs, RoboFont, and others. 
+
+The production process is faster, the barrier is lower. This leads to a lot of poor fonts, but the number of professionals grows fast too, and many have advanced degreess in type design. 
+
+In 1998 there were NO type design focused courses; by 2000 there was Reading and Type Media. In 2010, the USA got one at Cooper Union, and just 2 years later, there are 11 places offering degrees in type design worldwide. 
+
+San Francisco, Mexico City, France, FADU and one here in Sao Paulo. There is a great Wikipedia page on this. 
+
+The volume of the production of fonts is staggering today. 
+
+More fonts!
+
+What does this mean? More competition for makers, more choice for users. Florian Hardwig: “Since there are so many, its harder to pick a good one.”
+
+Usage trends also spread faster now. Helvetica released in late 50s but didn’t get huge until 20 years later; the association with 1960s modernism, didn’t stop it from being popular all the time since then. 
+
+Today it takes weeks for a font to become popular. I can’t verify the timeline, but a few months after Apple introduced iOS 7, web designers followed suit, so they added a long shadow, especially to type , and it was a visible trend on Dribble. These logos are all within 3 months. 
+
+[ SC captions the Google Fonts logo as Luky Vj ]
+
+You know when it is a trend where there is a generator for it, and a backlash. 
+
+Users determine what kinds of fonts get made; there are obiovus trends in font usage but also in the design of type. Commissions by users are common and this effects retail market trends. 
+
+Type designers reposed to what is popular. The fast response to trends, something on a bestseller is replaced within months or weeks, as we saw this week. 
+
+Chromatic fonts are now possible and all these geometric sans with color and layers are all within a few years. 
+
+Trendy fonts do sell! but temporarily. they flame out. I see why type designers go down this path, its practical, but I am more interested in type that sets trends. 
+
+Lets consider the perspective of the type designer. If you finish a font, what are your choices?
+
+Submit it to a foundry. Usually an exclusive distribution deal, the royalties can vary. Most foundries pay a percentage of the final price, and so the fonts can be resold in many channels. Sometimes that can be a percentage of a suggested retail price, so that the cut for the designer is always the same. Thhe benefits are no business effort to bring the type to market, and technical help with the production. You should know about business and the contract, of course, but uyo can spend more time on designing type. 
+
+You can also go to a reseller like my fonts, and have your own foundry brand; you set the price, and each reseller has different customer bases and different marketing efforts; ask about how much effort they will do for you. 
+
+Some offer fonts through many resellers, like Mark Simonsson, and others use more select resellers. This requires more works; your  own brand, license and policies, and completing the fonts to a level of quality. 
+
+Most retailers handle sales, but the main advantage is reaching a wide audience. The main drawback is the competition with the other vendors and being buried. 
+
+You can also do it all yourself. This brings you 100% of sales, of course, but exclusivity has its benefits as Hoefler and Co, or LineTo can attest. It gives your brand more value. But it can be a hard path to follow, to bring traffic to your site. It may look like a lemonade stand, on the roadside, waiting for people. 
+
+You don’t know how much you could have been making if you went elsewhere. But you can make a proper shop, make a fully independent living. You need to be biz savvy, spending less time on drawing type, and cover the overheads. But you maintain a relationship with each customer - a huge advantage and disadvantage! 
+
+Is this a pro or a con? I think mostly pro. I’ll explain why in a moment. 
+
+There are other models. WE are in a state of flux. There are new platforms, there will be more in the works, and among these I see things happening that can improve the state of the market. 
+
+Retailer curation. As the svolume explodes, this is more important. Be selective on quality, the drawing craft, and also a sense of taste, originality and a vision of the future. Curation sets trends, not the other way roaring. FontShop set the baseline for this, the FontFont slogan was ‘by designers for designers’ and the brand was meant to extend this to a retailer. 
+
+
+As the collection grew, they had to balance a big inventory with latest releases against not burying the other products in the inventory. I saw this first hand. 
+
+Resellers like Fontshop do a good job overall, but the bar is not high enough for others. Most of the most interesting foundries are not totally indeptent, Swiss type, Process Type, Lucas Fonts, TypoNine, and Typotehque. This sia  slow trickle, but these are bellwether foundries. 
+
+FontStand, allows trying fonts for free, its great for users, Monotype had SkyFonts, and Adobe has TypeKit Desktop Sync. FontStand is set apart with its selective list of foundries, which is attractive to makers who know they will be in good company; they say they will grow slowly and deliveratebly. 
+
+At my fonts, we heard about how they have a review board and reject more than they accept, but their MO was to let the market decide, and until last week the my fonts lists were based purely on sales. Today they list staff picks, and there is a new hompage as of last week. But the big discounts linger on the homepage. 
+
+When you enter a Gap store, but the latest stuff on full price is up front to see before you go to the sales to the back. You don’t have to put price cuts up front, but MyFonts have a clientele to cater to. But there is a need for retailers in other markets to do something else. 
+
+I think the font market of the future will be defined by a direct relationship between maker and user. I met users who say “it is a my fonts font” or “it is a they work for you font” but people see humans make fonts more and more. 
+
+The Creative Characters newsletter is focused on individuals, and type designers need to know their users too. Who are they, what do they need, what problems do they have with their fonts? 
+
+Font designers tell me they love closer relationships with customers, and unless you sell directly, most of that is lost. 
+
+Florian Hardwig said, as above, many fonts makes choice harder. I don’t have all the answers, but I know that buyers and sellers both need a better market that respects both their needs. 
+
+The farmer’s market is like this. They grew a lot in popularity in California and Berlin where I live. Living close to agri biz means there is more concern for Grow Local food movement. We can get our staples, Artisan, Organic, and other buzz words. Instead of a supermarket that buys all the goods and resells them, we buy direct from makers. 
+
+The people at the stand often work on the farms, and the market committees are a combiantion of retailer and maker, with direct connection of users to makers. We know the quality because they literally stand behind the product. We give them direct feedback, we have mutual respect. 
+
+Can this work in the font market? Sometimes the answer is not in the market; typographica and fontinuse are editorial. 
+
+I am working with Marina, Rob Meek, Nick Sherman, Floraian Hardwig, Chris Lewis, and David Jonathan Ross who advises us. They are some of the best people in the type world. I waterski behind them. 
+
+I can’t say more about this top secret project, but what I can say is, a MyFonts Killer! ;) 
+
+No! Its not a my fonts killer, that is a joke. We expect to co-exist with My Fonts and help the ecosystem. Its a guide to the type market and the best places to find them; foundry websites, or a retailer, whatever the foundry prefers. 
+
+Expect an email from our team soon. 
+
+These are solutions for retailers and new retail concepts under development. I see hope. I want to see type designers to retain independence, do good work, and respect themselves. 
+
+I love this craft and I love these people, I want to see them continue to do what they love. 
+
+Thanks!
+
+Jan Middendorp: In HTML you have a thing for italic, and slash italic. So, slash my fonts, I think that what I think is hardest for those making choices on line is that there is too much. Even news and politics, its too much. What we all need is less. I agree what you say. I also talk to my fonts about starting something that offers less, a curated collection, but it wouldn’t have much credibility if its part of the monolith. so you have great people, Florian is a guy I work with in Berlin, and I wish you all the best with this effort. [ big applause ]
+
+SC: If you are a budding type designer, please ask questions. Or lets chat at the party. 
+
+JB LEveee: A corerction, type education. Lots of type designers also have an educational background, and I want to stand against the idea that before Reading and KABK there was nothing for type education. Me and many others were trained in the type course of the last 30 years, and there are many good places for learning type around the world. It was not a sudden thing at that time, and there are older courses. 
+
+SC: Great! Lets make a better map. I wanted to speak of post-graduate programs, but I agree totally. 
+
+Jose Scaglione: Nice presentation! I wonder if the graphic deign community needs us to curate the fonts that we offer them. Why they do they need us? 
+
+SC: I think there is always more. Education is top of the list for those making or selling fonts. People want to be informed and people want it. Type selection is a huge topic and I want to encourage more people to write on this. 
+
+?: If the curation and education is done on the same page, that is good. 
+
+SC: Yep
+
+[ applause ] 
