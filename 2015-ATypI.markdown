@@ -7,6 +7,8 @@ These are live blog notes from the lectures at the ATypI 2015 in Sao Paulo.
 Web Fonts
 ----------
 
+Original Deck: http://goo.gl/65f2Pq and PDF in this repo
+
 09:30
 
 DK: Web fonts allows us to quantify the impact that type designers have on the world, which is significant and important. 
@@ -1522,6 +1524,8 @@ Sumner Stone: Its amazing to see as employee 25 from 1985, if you wrote a memo y
 
 Stephen Coles: State of the Mart
 ------------------
+
+[ PDF with original speaking notes available in this repo ]
 
 Catherine’s other keynote was great! A high bar for me :)
 
