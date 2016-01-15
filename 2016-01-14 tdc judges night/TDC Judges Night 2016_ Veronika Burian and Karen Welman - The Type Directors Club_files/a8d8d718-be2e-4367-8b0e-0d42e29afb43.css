@@ -1,0 +1,217 @@
+/* 
+This CSS resource incorporates links to font software which is 
+the valuable copyrighted property of WebType LLC, The Font Bureau 
+and/or their suppliers. You may not attempt to copy, install, 
+redistribute, convert, modify or reverse engineer this font 
+software. Please contact WebType with any questions: www.webtype.com
+*/
+
+body:after { content: ''; background-image: url(//pls.webtype.com/v.gif?ct=30959,30955,30953,30960,30957,30950,30952,30951,30956,30949,45422,45423,30954,30958,31015,30963,30962,31016,31014,30964,30961,45420,31017,31014,30953,30957,30952,31016,30956,45422,30959,45420,31017,45423,31015,30955,30962,30958,30949,30961,30964,30951,30960,30963,30950,30954,31014,30961,30954,31017,30964,30962,31016,31015,45423,30958,30959,30949,45422,30951,30956,30950,30952,30960,30957,30955,30953,45420,30963&r=5409&p=4576&h=xE0Dcqv7aq34CtQgA0Z8eA%3d%3d); }
+
+@font-face {
+ font-family: "ITC Franklin Cond Bold";
+ src: url("//cloud.webtype.com/webtype/ff/2/76a065ed-76be-4ed2-a226-b088c06b2cf0");
+ src:  url("//cloud.webtype.com/webtype/ff/2/76a065ed-76be-4ed2-a226-b088c06b2cf0#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/592d5d7f-35ad-4a00-be47-68db3bedc098") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/04a0a283-d585-4e78-9f06-b7c0a4cba7ef") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "ITC Franklin Cond Light";
+ src: url("//cloud.webtype.com/webtype/ff/2/71690741-33f5-4a6f-9f5b-927bcc12aa3f");
+ src:  url("//cloud.webtype.com/webtype/ff/2/71690741-33f5-4a6f-9f5b-927bcc12aa3f#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/9b6cceea-d960-4c13-abc0-d8b2b9ed9009") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/c008ca97-0f82-49b9-b494-f0a876f7ce7c") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Cond Bold";
+ src: url("//cloud.webtype.com/webtype/ff/2/897e1ec3-71f3-477c-bf9f-0979653fd905");
+ src:  url("//cloud.webtype.com/webtype/ff/2/897e1ec3-71f3-477c-bf9f-0979653fd905#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/0066ae52-1e30-4fa8-a581-b3ec0d63327b") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/3f9e0853-f76a-4931-9f35-1f5845f205bd") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "ITC Franklin Med";
+ src: url("//cloud.webtype.com/webtype/ff/2/afbb76fa-00f2-4395-b75a-a3aa8f1517a3");
+ src:  url("//cloud.webtype.com/webtype/ff/2/afbb76fa-00f2-4395-b75a-a3aa8f1517a3#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/69e644bc-4546-49c3-b825-b47ebb3f5f98") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/c8c68972-eb06-476a-92c8-2babe8ae2575") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Light";
+ src: url("//cloud.webtype.com/webtype/ff/2/00ca04db-e642-4a01-a2c5-c9d7055795a0");
+ src:  url("//cloud.webtype.com/webtype/ff/2/00ca04db-e642-4a01-a2c5-c9d7055795a0#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/bd07c3c0-4ba7-4c67-b715-0d1b891e2648") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/d4d4c088-141c-498c-b61e-db226aebd060") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Bold";
+ src: url("//cloud.webtype.com/webtype/ff/2/861ac2c9-4e71-4944-922f-07b645e5a251");
+ src:  url("//cloud.webtype.com/webtype/ff/2/861ac2c9-4e71-4944-922f-07b645e5a251#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/409ff374-4821-4290-acd8-f5bfe7423fad") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/01d97c3c-e6a5-49bc-b687-277c14e6c721") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "ITC Franklin Cond Med";
+ src: url("//cloud.webtype.com/webtype/ff/2/62b1d9c7-b25a-4c56-8b93-dc1c6ee861a2");
+ src:  url("//cloud.webtype.com/webtype/ff/2/62b1d9c7-b25a-4c56-8b93-dc1c6ee861a2#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/670436ec-c512-441a-afe2-b61554f245e3") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/494dd155-d2bd-461a-8bd1-bb64de10cc47") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Med";
+ src: url("//cloud.webtype.com/webtype/ff/2/c4819607-1d20-4bac-8b3d-adea36bec3a3");
+ src:  url("//cloud.webtype.com/webtype/ff/2/c4819607-1d20-4bac-8b3d-adea36bec3a3#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/c249c9a9-7b12-4a4c-9c9c-8fe3107986e4") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/72963ad6-d62d-412d-8d3d-dfb028eb8905") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Light";
+ src: url("//cloud.webtype.com/webtype/ff/2/f04614df-a454-459b-b4fe-4e8e4a540a3d");
+ src:  url("//cloud.webtype.com/webtype/ff/2/f04614df-a454-459b-b4fe-4e8e4a540a3d#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/caed8171-1ea4-4e03-b733-2e1324bdfaab") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/3bacad70-947e-4f42-b978-6e4f7ed7cfca") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Bold";
+ src: url("//cloud.webtype.com/webtype/ff/2/daf881c1-5cb4-4a1d-aa25-d92dc22003d8");
+ src:  url("//cloud.webtype.com/webtype/ff/2/daf881c1-5cb4-4a1d-aa25-d92dc22003d8#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/6bdb7773-fdd4-4cea-8875-97834df824b1") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/d086aa0d-8ae3-4c42-bd3e-01f5d745e50b") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "ITC Franklin Cond Med";
+ src: url("//cloud.webtype.com/webtype/ff/2/6d689921-b55b-4c84-8d3d-1b8dd2f15a4b");
+ src:  url("//cloud.webtype.com/webtype/ff/2/6d689921-b55b-4c84-8d3d-1b8dd2f15a4b#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/71dfd26d-0837-4959-b25c-120cd489e330") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/92e56fbb-817f-479f-bec1-e52d070f54f9") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "ITC Franklin Cond Light";
+ src: url("//cloud.webtype.com/webtype/ff/2/4191c554-0e74-4152-97a6-8494a8918b68");
+ src:  url("//cloud.webtype.com/webtype/ff/2/4191c554-0e74-4152-97a6-8494a8918b68#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/d0286bc5-190a-4d86-a504-db4919d85d7d") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/6947b4fa-f373-4e62-a361-2ba5f435e062") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Benton Sans RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/5075bd38-73f4-4327-a56b-63fafdcedbf9");
+ src:  url("//cloud.webtype.com/webtype/ff/2/5075bd38-73f4-4327-a56b-63fafdcedbf9#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/1800a66c-a48c-406b-9e74-6ba2cf72bf0f") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/1dc1d6ae-b0e4-413e-93c7-fc1b5a520231") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Benton Sans RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/99d681e0-50bf-4bf3-b128-956a383cdbe6");
+ src:  url("//cloud.webtype.com/webtype/ff/2/99d681e0-50bf-4bf3-b128-956a383cdbe6#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/b1abb494-6453-46f9-be32-c06a749833ae") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/b38f2fdc-3da2-4db3-aa47-3ec7ad0c2cb8") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Benton Sans RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/176616cf-5efe-4f65-bd23-2f0e52fc3c96");
+ src:  url("//cloud.webtype.com/webtype/ff/2/176616cf-5efe-4f65-bd23-2f0e52fc3c96#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/b49f4fe3-09d6-4a3e-a3f2-16db30aaeaa7") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/1040f653-c681-461b-b818-9b732b00548f") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Benton Sans RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/26f38fba-a10b-4975-9277-f6318a7662d3");
+ src:  url("//cloud.webtype.com/webtype/ff/2/26f38fba-a10b-4975-9277-f6318a7662d3#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/53d39add-b89e-4c29-a0f5-23e5dbe186ec") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/2a565bce-edd4-40b7-901c-e664342d5a3e") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Poynter Serif RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/5d826ff2-3c87-45a2-b3b1-d2d0c1656adf");
+ src:  url("//cloud.webtype.com/webtype/ff/2/5d826ff2-3c87-45a2-b3b1-d2d0c1656adf#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/75a78146-afdb-4ac0-9e9f-c159b71d7b5d") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/bb0e6b41-1e61-4cf6-81b0-89433875ef88") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Poynter Serif RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/298c6d6d-1eaf-40c9-9094-41a68f980808");
+ src:  url("//cloud.webtype.com/webtype/ff/2/298c6d6d-1eaf-40c9-9094-41a68f980808#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/4760f9e2-9502-4e5c-b20a-5850ce9aa016") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/6feeb35d-25b7-48c0-95ca-ebf354f77833") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Poynter Serif RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/3d4116f7-7d97-4921-8774-77debe26de40");
+ src:  url("//cloud.webtype.com/webtype/ff/2/3d4116f7-7d97-4921-8774-77debe26de40#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/ae814fba-01d3-4c97-b59e-92a03846297d") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/6fe43579-3623-491d-8d27-dd958b6893b7") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Poynter Serif RE";
+ src: url("//cloud.webtype.com/webtype/ff/2/b562f9bb-46e1-4b42-91da-af783bc57e09");
+ src:  url("//cloud.webtype.com/webtype/ff/2/b562f9bb-46e1-4b42-91da-af783bc57e09#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/afa9f3a0-a7e5-4bb9-940d-9c416126caa8") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/4b803bcf-0d30-4beb-be20-ca2248848920") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Poynter OS Disp";
+ src: url("//cloud.webtype.com/webtype/ff/2/63d7b724-98a6-47e7-aea8-3cf46c8c9d60");
+ src:  url("//cloud.webtype.com/webtype/ff/2/63d7b724-98a6-47e7-aea8-3cf46c8c9d60#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/0bedbd0f-55b2-4656-9645-564766a2be3a") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/7b38e2c3-06a4-44e4-88b8-2fc3834807fe") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Poynter OS Disp";
+ src: url("//cloud.webtype.com/webtype/ff/2/cd9f2506-6aa5-40d3-b4e6-9a98bc4863b1");
+ src:  url("//cloud.webtype.com/webtype/ff/2/cd9f2506-6aa5-40d3-b4e6-9a98bc4863b1#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/5f5a8f41-4476-4652-a51c-99e26fbb854d") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/cdb32e97-72ed-46fd-9c8b-4443054f05d8") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Poynter OS Disp";
+ src: url("//cloud.webtype.com/webtype/ff/2/dbc4b64b-7207-49c6-ab73-ea4a34e6cade");
+ src:  url("//cloud.webtype.com/webtype/ff/2/dbc4b64b-7207-49c6-ab73-ea4a34e6cade#iefix")  format("embedded-opentype"),
+  url("//cloud.webtype.com/webtype/ff/3/73b97dc7-ea21-425b-83f8-f44685402800") format("woff"),
+  url("//cloud.webtype.com/webtype/ff/1/7f3ea760-1cfd-4f4b-a29b-4b0ab0cd6538") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}

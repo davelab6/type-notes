@@ -1,0 +1,32 @@
+/*
+Theme Name: TDC
+Theme URI: http://tdc.org
+Description: An extreme modification of the Starkers theme by Elliot Jay Stocks
+Version: 1.0
+Author: Jessica Hische & Nick Sherman
+Tags: TDC
+*/
+
+/* @import "css/reset.css"; */
+@import "css/allstyle.css";
+@import "css/calendar.css";
+@import "css/responsive.css";
+
+img {
+  height: auto;
+}
+
+/* The join form */
+form.join-form,
+.gform_confirmation_message,
+form.join-form input {
+	font-family: "ITC Franklin Bold",Verdana,sans-serif;
+}
+form.join-form ul li {
+	text-indent: 0;
+	padding-left: 0;
+}
+.gform_confirmation_message {
+	font-size: 12pt;
+	margin: 30px 0 60px 0;
+}

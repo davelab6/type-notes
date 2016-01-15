@@ -1,0 +1,416 @@
+@media all and (max-width:950px){
+	#ad-area {display:none;}
+	.entry-content{margin-right:0px;}
+	#content-wrap, #content-wrap.essay{width: 71%;}
+	#content-wrap.essay p{font-size: 1.5em;}
+	#content-wrap.videosingle {
+		width: 71%;
+	}
+	#sidebar{width:25%;}
+	.entry-content p{
+		margin-right:0px;
+	}
+	#right-sidebar{
+		width: 71%;
+		float:right;
+		margin-left: 0;
+		margin-right: 2%;
+		margin-top: 1em;
+	}
+	
+	.medium, .large{
+		width: 47%;
+		margin-right: 3%;
+	}
+	
+	#row-3-wrap .medium, #row-2-wrap .medium{
+		width: 38%;
+		margin-right:2%;
+	}
+	
+	#row-3-wrap .large{
+		width:58%;
+		margin-right:2%;
+		font-size: 80%;
+	}
+	
+	#row-2-wrap .large{
+		width:58%;
+		margin-right:2%;
+	}
+	
+	#featured-article-text {
+	position:relative;
+	padding:.5em 0% 0em;
+	}
+	
+	h2.article-title.featured {
+		font-size: 3.5em;
+		border-bottom: none;
+	}
+	#officer-pic{
+		float:left;
+		width: 25%;
+	}
+	
+	#officer-info{
+		float:right;
+		width: 70%;
+		margin-right: 2%;
+	}
+	
+	.entry-content h2.winners-title{
+		margin-top: 1.5em;
+	}
+	
+	.entry-content .competition-info ul li {
+		font-size: 1em;
+		margin-bottom: .3em;
+		width: 100%;
+		display: inline-block;
+	}
+
+	
+}
+
+@media all and (max-width:850px){
+
+	.entry-content ol.competition-winners{
+		padding-left:4em;
+	}
+	
+	
+	/*
+#page {
+		padding: 2em 5% 2em;
+	}
+*/
+	#header-wrap #logo {width:100%;}
+	#header-wrap #logo img{width:17.95%;}
+	#header-wrap h1{left: 17.95%; width: 80.2%;}
+		
+	
+	#monogram{
+		display:none;
+	}
+	
+	#join-button .button-type{
+		top:0px;
+		margin-right:0px;
+		background-color: #ec4446;
+		display:block;
+		padding: 10px 15px;
+		-webkit-box-shadow: inset 0 0 15px #ba1b1d;
+		-moz-box-shadow: inset 0 0 15px #ba1b1d;
+		box-shadow: inset 0 0 15px #ba1b1d;
+		border-radius: 2px;
+		font-size: .75em;
+	}
+	
+	#join-button a .button-type {
+		color:white;
+	}
+	
+	#join-button{
+		right:0%;
+	}
+	
+	#join-button a .button-type:hover {
+		background-color: #ba1b1d;
+	}
+	
+	#footer-wrap p{
+		width: 100%;
+	}
+	
+	#footer ul{
+		width: 100%;
+		margin-top: 1em;
+	}
+		
+	
+}
+
+@media all and (max-width:650px){
+
+
+	.smallscreen{
+		display:block;
+	}
+	
+	.bigscreen{
+		display:none;
+	}
+	
+	#mobile-menu{
+		display:block;
+	}
+	
+	.open{
+		display:block;
+	}
+	
+	#access{
+		width: 100%;
+		display:none;
+	}
+	
+	#access ul li{
+		width:100%;
+		margin-bottom: 2px;
+		font-size: 1.6em;
+		padding: 20px 0;
+	}
+	
+	#access li + li {
+		margin-left: 0%;
+	}
+	
+	#sidebar{display:none;}
+	#right-sidebar{
+		width: 98%;
+		float:left;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	
+	#content-wrap.videosingle{
+		width:98%;
+	}	
+	
+	#content-wrap{
+		width: 100%;
+		margin-top:.5em;
+	}
+	
+	#content-wrap.essay{width: 100%;}
+	
+	h2.article-title.essay.single {
+		font-size: 5em;
+		line-height: .9em;
+	}
+	
+	h3.article-author{
+		font-size: 1.75em;
+	}
+	
+	#essay-single-block-title + p:first-letter{
+		font-size: 5.5em;
+		line-height: .75em;
+		margin-top:.09em;
+	}
+	
+	.kill{
+		display:none;
+	}
+	
+	.medium, .large, #row-3-wrap .medium, #row-3-wrap .large, #row-2-wrap .medium, #row-2-wrap .large{
+		width: 100%;
+		font-size: 100%;
+	}
+	
+	.home-event h2{
+		text-align:left;
+	}
+	#right-sidebar ul{
+		font-size: 1.6em;
+	}
+	
+	#officer-info ul{
+		font-size: 1.4em;
+	}
+	
+	#featured-section{
+		margin-bottom: 2em;
+	}
+	
+	#tweets-home{
+		margin-top: 1em;
+	}
+	#officer-pic{
+		float:left;
+		width: 30%;
+	}
+	
+	#officer-info{
+		float:right;
+		width: 65%;
+		margin-right: 2%;
+	}
+	
+	.small{
+		width: 48%;
+		margin-right: 2%;
+	}
+	
+		#row-1-wrap{
+		margin-top:0;	
+	}
+	
+	#page{
+		padding:1em 0;
+	}
+	#main{padding:0 4%;width:92%;}
+	
+	#header-wrap{padding: .5em 4% .5em;width:92%;margin-bottom:1.5em}
+	.home-wrap h3.blackbar{width:98%;}
+	
+	#header-wrap #tagline {font-size: .6em; line-height: 1.3em;}
+	.article-banner{
+		height:inherit;
+	}
+	
+	
+}
+
+@media all and (max-width:500px){
+
+	#header-wrap h1 a{
+		display:none;
+	}
+	
+	#header-wrap #tagline {width:70%;}
+
+	#join-button{display:none;}
+	
+	#main{margin-top:1.4em;}
+	
+	.wp-caption.alignright, .wp-caption.alignleft{
+		float:none;
+		width:100%;
+		max-width: inherit;
+		margin-right:0em;
+		padding-right:0em;
+		padding-left:0em;
+		margin-left:0em;
+	}
+
+	
+/*
+	#right-sidebar{
+		font-size: 120%;
+	}
+*/
+	
+	h1{
+		font-size: 4em;
+	}
+	
+	h2{
+		font-size: 3.0em;
+	}
+	
+	
+/*
+	ul.booklist{
+		text-align:center;
+	}
+	
+	h1, h2, h3, h4{
+		text-align:center;
+	}
+	
+	#right-sidebar ul{
+		text-align:center;
+	}
+*/
+	
+	.book-image {
+		width:30%;
+	}
+	
+	h1 p.subhead{
+		text-align:left;
+	}
+	
+	p {
+/* 		line-height: 1.4em; */
+	}
+	
+	.entrytext p:first-child,.run-in {
+		font-size: 1.5em;
+	}
+	
+	.video-info, .video-home-wrap {
+		width:100%;
+		margin-right: 0%;
+		margin-left:0%
+	}
+	
+	.video-info h2.entry-title{
+		margin-bottom: 1em;
+	}
+	
+	p.subhead{
+		display:none;
+	}
+	
+	#header-wrap{
+		margin-bottom: 1em;
+	}
+	
+	.office-held {
+		position:relative;
+		display:block;
+		margin-top: .5em;
+	}
+	
+	ul#medalists li{
+		width: 100%;
+		font-size: 200%;
+	}
+	
+	#officer-pic{
+		float:left;
+		width: 100%;
+	}
+	
+	#officer-info{
+		float:right;
+		width: 100%;
+		margin-right: 0%;
+	}
+	
+	.type-thumb {
+		width: 50%;
+		float: right;
+		margin-top: .5em;
+	}
+	
+	ul#extra-bold.member-block li {
+		width: 48%;
+		margin-right: 2%;
+		border-bottom:none;
+	}
+	.entry-content .members-column.life ul li {
+		width: 98%;
+		margin-right: 0%;
+	}
+	
+	.entry-content .members-column ul li {
+	width: 48%;
+	margin-right: 2%;
+	}
+	
+	#footer ul li{
+		width: 48%;
+		margin-right: 2%;
+		margin-bottom: 1.5em;
+		font-size: 100%;
+	}
+	
+	#footer-wrap{
+	padding-top:.7em;
+		padding-bottom:.5em;
+	}
+	
+	#footer{
+		padding-bottom:0em;
+	}
+	
+	#footer p{
+		display:none;
+	}
+	
+}
