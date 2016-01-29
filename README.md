@@ -10,3 +10,9 @@ What do you want for free? :)
 If something here is incorrect it is probably because I mistyped it or misunderstood, and if anyone wants corrections, just should tweet me – [@davelab6](https://twitter.com/davelab6) - or [file an issue](https://github.com/davelab6/type-notes/issues) - or email me <dave@lab6.com>
 
 Thanks!
+
+## Notes in other repos
+
+I also maintain some notes in their own repos
+
+* https://github.com/davelab6/afdko-workshop-coopertype-2015
