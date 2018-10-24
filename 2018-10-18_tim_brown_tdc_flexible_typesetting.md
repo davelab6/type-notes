@@ -38,7 +38,7 @@ This is NOT transient stuff :)  This is the core nature of the craft and the way
 
 I am a web designer. Nina is right, I'm coming into this as a web designer, I did study graphic design in school and got a job in college in a print shop - did a book binding class - and I learned web stuff on my own at the same time. I have been immersed in design a long time. 
 
-I joined typekit, a startup to help people to use web fonts; I'm not head of typography at adobe. I work with adobe product teams, adobe's tools are powerful and complicated, and typography features are not yet consistent. I work to harmonize them, make them better, and even make new tools that I hardly understand and I am seeking to. 
+I joined typekit, a startup to help people to use web fonts; I'm now head of typography at adobe. I work with adobe product teams, adobe's tools are powerful and complicated, and typography features are not yet consistent. I work to harmonize them, make them better, and even make new tools that I hardly understand and I am seeking to. 
 
 I am excited about tonight as I want to explain the core ideas and then discuss with you all. We have print people, sensitive to fine printing, and web people. we all have experiences of reading online. NYC Subway photo of people reading Phones, tablets, kindles... We have laptops, laptop-tablet combos. Interactive screens on walls. Projectison. Brett Victor's Dynamic Land is projecting and you code by laying things out. Stuff watches what you do and reacts. It's a short hop to mixed reality gear, gimmicky now but will be ubiquitous. 
 
