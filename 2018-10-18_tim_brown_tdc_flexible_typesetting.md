@@ -193,13 +193,13 @@ Jason: You are the only other one that I've met :)
 
 haha sure, but Ray was telling me earlier, you said you have a stat for people who visit with JS turned off.... until it loads? Fonts are FILES that are LOADED; no one has the intended font that you have specified installed locally, they need to wait for it to download, and it might never arrive. So you can prioritise the defaults more. I can say, for type, the RIBBI styles are defaults. Maybe a more expressive face, is more obvious how to use. 
 
-Mike: I teach typography at the introductory and intermediate level. I think this should be a primary source. Your book just came out. But you were thinking about this for a while. Do you know any curricula?
+Maurice Meilleur: I teach typography at the introductory and intermediate level. I think this should be a primary source. Your book just came out. But you were thinking about this for a while. Do you know any curricula?
 
 Thanks for suggesting that; I was writing this with the goal of making it a class textbook. I am speaking in the coming weeks at some campuses. Type Thursday, Thomas is here, they teach and he QUICKLY read the book and said this is great and what I teach. He is a smart guy and I was pleased to hear it. 
 
 Jason: Laura Franz (?) have classes in web typography. 
 
-Mike: As a follow up, I want people to not teach typography then interactive, I think it should be built in right from the beginning. 
+Maurice Meilleur: a follow up, I want people to not teach typography then interactive, I think it should be built in right from the beginning. 
 
 Jason: I wouldn't argue with that. 
 
