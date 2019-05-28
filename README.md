@@ -23,6 +23,10 @@ And while these notes are not an accurate record of the lecture contents, useles
 
 Thanks!
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Where this work belongs to me, my intent is that work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Notes in other repos
 
 I also maintain some notes in their own repos
