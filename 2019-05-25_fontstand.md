@@ -22,7 +22,7 @@ Photos to go with these notes are available here:
 
 <https://photos.app.goo.gl/XJuCSfy8PogZihmP9>
 
-## DJR
+## David Jonathan Ross / DJR / Two, Four, Six, Eight… Everyone Interpolate
 
 Our letters are math. Its our raw material. Craft and modernism is about truth in materials. 
 
@@ -143,7 +143,7 @@ We will also publish the CSTM custom fonts. It will come online later this year.
 
 Thanks again for organizing another great conference!
 
-## Veronika Burian: It's not all rosy...
+## Veronika Burian / TypeTogether / It’s not all rosy…
 
 I wanted to share the economic, technical and design challenges that we face today. I have no claims to answers, but I want to raise some questions. 
 
@@ -205,11 +205,147 @@ Now, many millinia ago, there were various kinds of humans, and telling stories,
 
 Tech is a huge driving force for society and type design. We should embrace the new, definitely. But with an eye to Science Fiction movies, like LCARS in Star Trek TNG movie from 1987, the imagery of SF effects our imagination. They had no budget for the buttons of the 1960s, so they took a film and put a glass pane over it. This shiny touch screen remains today; here's WestWorld from 2016. 
 
-...
+Future technology will produce a hybrid information environment, with text and other information inputs. Morphing, distorting...
 
-* * * 
+Umprum student experiments
 
-## Erik van Blokland
+Amsterdan Station will have a motion design exhibition with VF used centrally
+
+Quentin is an upcoming VF-only face. Needed a lot of masters.
+
+We should look at our environment, and see if we can think outside the box.
+
+Type won't change the world but it will make for a better future!
+
+Thanks
+
+## Hyewon Han / Sandoll Communications / Hangul, Designing Companionship with Neighbor Scripts
+
+Which Latin fonts are used in Korea? Helv, din, futura, noto, Gotham. Arial, Garamond, tnr, myriad, gill, bodoni. Powerlaw distribution.
+
+Accessibility if fonts is important to korean users. Sandoll NeoGothic1 was released in 1995. Gill Sans and hekvetica were most popular matches. We made a new Latin, with high x height, not too wide as NeoGothic1 is a little narrow, with a humanist touch, and chose Guardian Sans to start as a base.
+
+Scaled 103%, lowered baseline by 25 units, changed side bearings, and changed some terminals to be more perpendicular to the strokes especially in Latin numerals.
+
+Users liked it as a "real" Neo Latin, but others wanted a more neutral font. This changed over time. We polled users on how to match scripts.
+
+Hyundai Card Youandi, was too direct in translation. Sandoll changed the design to be more authentic.
+
+Q: how many people will be working on a hangul?
+
+A: 3-4 for h+Latin
+
+## Johannes Breyer & Fabian Harb / Dinamo / Dinamo Dark Room
+
+Gustavo Ferreira showed us scripting RF extensions istead of having 63 fontlab files. We had treatments and OT feature alts. And now VF experiments.
+
+18 months ago we asekd what is VF. Tried to understand it. Weight, proportion to mono. And the glitch suorises were nice. "Body of us" blobby type. A bubble font using overlapping contours. We look for these glitch moments as inspiration. A growing underline udner each letter. TDers must teach graphic designers to use VF. We released the  prop to mono. We have a playful one which let's letters on top of each other.
+
+We found a sample of an early grotesque with big ink traps and High contrast. But now we allow users to choose the inktrap size. "Whyte". (Great photo of Pope and DISHELVELLED actor)
+
+So, tooling, (new guy :) we wanted to make new in-house tools. DinamoDarkroom is where we publish our tools. The gauntlet is a old hardocre game. Reveals weaknesses. We wanted to animate out VF quickly, drop a font and animate it on the fly. Now it's a large thing.
+
+Drag in Whyte VarFont. Size tracking leading is there. Para alignment. Sample texts. Random Wikipedia text. Glyph table like a font editor. look at vertical metrics.
+
+Then a list of Sliders for axes. Reset. Animate all at once. Speed, easing.
+
+We use that to proof everything, as it's so much. We want all areas of our Design space to look good.
+
+There's an instancer. Snapshot current state
+
+And we added dark mode :)
+
+And there's a Mac desktop version.
+
+We see web is first, before operating systems, so we could also make this quickly on the web.
+
+(back to main guy) So finally some questions we want to discuss with you :)
+
+Q Peter bilak: how far are we into VF? Early or late? For font makers and users? I find that exciting
+
+A: files are there. Mostly graphic designer nerd to be taught how to use them in corp identity and then they will buy them.
+
+## Short Talk - Jeremie Hornus - Black Foundry
+
+Jeremie: We did the Renault Read project. Sometimes up to 15 people working at once, on 10 writing systems, pictograms too. Sketched them all together. Used for text sizes by the renault brands.
+
+## Rui Abreu / R-Typography / Type Garments
+
+PB: Fontstand has 4 foundries, the most of any country. R-Typography is well established for text and display type.
+
+R: since 2008 in Lisbon. Last year became a company. I recently made Grifo and Gliko Modern. Grifo first released by Magazines, as intended. High contrast, sharp serifs. A 1950s car was called that, for it's power and speed. Also reminded me of Francesco Griffo, famous punch cutter. It's cut not drawn but that's the only connection.
+
+Catacumba was a font I made in 2008 and remade it and it became oversimplified and cleaned so much to be a new thing. Grifito is event higher contrast. I was radical about what to keep and throw away.
+
+I killed the exit serif on a. Then d and u. That made the line fitting tighter.
+
+Didot Roman, very vertical. I made it flatter.
+
+The super high contrast is nice in text. But not body sizes. So I made the optical size. The middle was interpoled. L, s, m. The idea of clothier is a simile others have used. Frutiger, Emil Ruder.
+
+So I like the idea of off peg clothing sizes. Make that understandable.
+
+It came out in 2016 when VF was announced. But I named the families to allow them to live on their own.
+
+And then when it was all over, I remade it again, as a modern. The k is special, so I literally put it in the name.
+
+Hairline bottom serifs and top heavy serifs is unusual.  I softened the counters so they feel carved from ice cream, not punched from metal.
+
+Caps proportions also became more similar. Lowercase is more oldstyle. The sharp a and e tails are nice, an n idea seen in the Trinite & Lexicon book, where de Doos describes their production. He says to treat the aperture as the counter. a and e are so frequently used.
+
+The italic is a bit 70s, 5 weights with italics in 3 sizes is 30 styles. For me it was a new thing to delegate the design.
+
+Finally, the family name is the garment on the garment. I was told to make names of your Typefaces different, but these ar similar. But they are different for different occasions. Like outfits. Thanks!
+
+## Paul Barnes - Short talk: Commercial Classics
+
+PB: out soon ;) this is hipster Design 183 years ago.  Punches from 1836, the world's first rounded typeface. It has timeless value. CC will launch soon with such faces.
+
+## Maria Doreuli / Contrast Foundry / It Is Good to Forget What You’ve Learned
+
+Are there Typefaces that are easy to make? Handwiriring? Modular? Very simple forms? Do these have something in common? All display type.
+
+There's a common idea to become a good type designer you should do a text type. I made a ball and stick Typeface first. It has weights.
+
+Then I did William Caslon, a serious text face. Started from low res image from Microsoft. But it was less original.
+
+Then chimera. The stems are all different and yes it's fine. It adds character and the serifs too are all a little bit different. They see like Dutch clogs ;) my main strategy was to start with as much inconsistency as possible and slowly calm down.
+
+So why do we hear that display type is so easy to design? I hear it a lot in Russia. But it's a like a typographic racism!
+
+And in history, slab serif vs Clarendon, there was such discussion. And ionic emerged. Perhaps display type slab Egyptian faces were the first time display type influenced serious text type?
+
+Last week @typographica tweeted about how so many reverse contrast things are made.
+
+I made a much lighter weight, that is more calm, and more useful for long text. But going from a tame text design is maybe harder.
+
+I find it fascinating how text and display designs can influence each other.
+
+So used William Italic v w q u z, and caps.
+
+So I like to start with a crazy design. Then slowly calm it down. Sun Helen  and I made this and then we added more counters. Then looked at Cyrillic. O and I combined. How to do? I tried many things. The idea is not about details. Combining different forms together. It's about the dna of the Typeface. I want to try to advance new solutions for existing forms. Which is always a challenge. But it makes sense for the whole design. So I designed this form, then I saw other people using it. I see 2 examples. I like to see my inventions living outside of my design.
+
+Do not underestimate display Typefaces!
+
+They are more attention grabbing and this feels more exciting for users.
+
+Sketch first! Sketching on paper gives freedom. No struggle with beziers or Applications.
+
+Messy is good! Leave perfection for later.
+
+Don't be a ruler maniac! Train your eyes. I think more and more designers use Copy and Paste and reuse the same shape.
+
+Try doing things the other way around!
+
+And don't believe me ;) draw, experiment, go nuts, and design different Typefaces! :)
+
+Thanks!
+
+## Matteo Bologna - Mucca Typo - Short Talk
+
+MB: Worldwide there are about 200 type graduates per year now.
+
+## Erik van Blokland / LettError Type / Designspaces
 
 Gerrit Noordzji taught at the KABK, here's a photo of him as a young man teaching and here's him recently. He stopped teaching in 1990.
 
@@ -291,15 +427,11 @@ Q Catherine Dixon: What does GN make of all this?
 
 EvB: He is happy for me to be working on it, but he is now well retired :)
 
-* * * 
+## Soohyun Park - Sandoll - Short Talk 
 
-YouJung Park, Creative Directory for ??? Font. 
+Today I would like to show you our new font, Life Plus. Competition brings out new work, but collaboration is more powerful, and I'm happy to see the industry collaboration at this event. Happy clients make great collaborators. 
 
-Today I would like to show you our font, Life Plus. Competition brings out new work, but collaboration is more powerful, and I'm happy to see the industry collaboration at this event. Happy clients make great collaborators. 
-
-* * *
-
-## Miguel Reyes: The similitudes of Designing Screen and Newspaper Type
+## Miguel Reyes / Commercial Type / The Similitudes of Designing Screen and Newspaper type
 
 So, nothing new, but something we don't talk about. 
 
@@ -371,21 +503,17 @@ Catherine Dixon: Ionic has short asc/desc because paper had limited space. But w
 
 Miguel: Well, we need to still fit a lot of text in a small screen :)
 
-* * * 
+## Michael Hochleitner - TypeJockeys - Short Talk
 
-## Michi - small talk
-
-I have run a foundry for 10 years, and not alwys making the best financial decisions, but all is well. An old friend asked me to make a logo for a thing he was doing. He didn't have a dime to spend, and I should haev said, "yeah well no :)" but I did not, sometimes I have a weak moment, to do it quick and fun and it will be good :)
+I have run a foundry for 10 years, and not alawys making the best financial decisions, but all is well. An old friend asked me to make a logo for a thing he was doing. He didn't have a dime to spend, and I should haev said, "yeah well no :)" but I did not, sometimes I have a weak moment, to do it quick and fun and it will be good :)
 
 And I was happy with this outcome. But I have to show my numbers. I use a tool called Moko, its for invoices, project tracking, and so on. It cost 59 person hours, for a logo. A lot of time! This leads to actual costs of 1,167 EUR that it cost me! I basically GAVE my friend that money. I could have bought a nice iPhone, or bought stuff for my kids! :) 
 
 So that was a reminder that you should be conscious about giving away work for free. By agreeing to do it for free, I was giving my friend over 1,000 Euros out of my pocket. So that's my talk, to remind you to think of that. 
 
-* * * 
-
 CDixon: Great! That's a great intro the next talk. I give many talks about the language we use in Type Design as being confusing and not helpful and then I go home and drink tea and don't fix that. But Joyce is working on the nuts and bolts of talking about licensing and the messy stuff that makes the commercial business of type design actually function. So give a big welcome to Joyce Ketterer. 
 
-## Joyce Ketterer - Understanding Font Licensing
+## Joyce Ketterer / Darden Studio / Understanding Font Licensing
 
 hello! 13 years ago I met a guy called Joshua Darden and a year later he talked me into running his foundry. And it took me 3 years to realise how important fonts were - I'm sorry, licensing fonts! 
 
@@ -483,13 +611,11 @@ CDixon: Thanks!
 
 * * * 
 
-## Paul van der Laan - Short Talk
+## Paul van der Laan - Bold Monday - Short Talk
 
-Bold Monday also has been around 10 years now. We make type, but also publish. We make specimens for every release. 
+Bold Monday also has been around 10 years now. We make type, but also publish. We make specimens for every release. Here's some of the latest.
 
-* * * 
-
-## Joana Correia - Slow Type
+## Joana Correia / Nova Type Foundry / Slow Type
 
 I presented this at ATYPI last year and i want to go deeper on this topic :)
 
@@ -548,7 +674,6 @@ But after the release, there always are more things to improve. Student work now
 
 ...
 
-
 Live slowly and be thoughtful. 
 
 It is now walking slow, but being thoughtful. 
@@ -563,15 +688,13 @@ CDixon: You slow down the process, does that open up more space for conversation
 
 JC: Well, I didn't have the experience to see it, and when several people said "pass your ego and redesign" then it feels like different shapes but the texture is still there :) 
 
-* * * 
-
-## Hughes Gentile, Production Type - Small Talk
+## Hughes Gentile - Production Type - Small Talk
 
 There is a forest fire that creates room for growth. We at Production Type have grown our library, so we will phase out our earlier work, starting with Panorama. we have a new family Media that pushes the ideas further. 
 
 * * * 
 
-## Andreu Balius
+## Andreu Balius / TypeRepublic / Graphic Art With High Doses of Cholesterol
 
 I am here to talk about the Spanish culture of butcher wrapping paper. this is part of spanish vernacular visual culture. 
 
@@ -587,9 +710,7 @@ So there are so many designs, I have around 600 in my collection
 
 Thanks!
 
-* * * 
-
-## Indra Kupferschmidt - Choose Your Own Adventure
+## Indra Kupferschmid / Choose Your Own Adventure
 
 I could have become a Chemist, but I am a designer. You combine existing elements until something exciting happens :)
 
@@ -691,8 +812,6 @@ CD: Will you be talking about classification when you retire?
 
 IK: I am working on a new German classification scheme. Maybe after that is complete I'll be done :)
 
-* * * 
-
 ## Nikola Djurek - Typotheque - Short Talk
 
 CD: Just 2 years ago at the first FontStand event, Nikola was talking about this event, so over to him for the last talk :)
@@ -707,5 +826,4 @@ Peter Bilak: Thanks to all the organizers, Dino, everyone who helped make this w
 
 Andre: We are on time :) Unbelievable! 
 
-PB: Thanks to all of your for attending! 
-
+Peter: Thanks to all of your for attending! 
